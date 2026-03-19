@@ -1,80 +1,182 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ta">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy | ZodiacMind</title>
+    <title>ZodiacMind | Your Personal Astrology Guide</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
+        :root {
+            --primary-purple: #4b0082;
+            --deep-space: #1a0033;
+            --gold: #ffd700;
+            --white: #ffffff;
+        }
+
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            line-height: 1.6;
-            color: #333;
-            max-width: 800px;
-            margin: 0 auto;
+            margin: 0;
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--deep-space);
+            color: var(--white);
+            overflow-x: hidden;
+        }
+
+        /* Hero Section */
+        .hero {
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            background: radial-gradient(circle at center, #3d0066 0%, #1a0033 100%);
             padding: 20px;
-            background-color: #f9f9f9;
         }
-        .container {
-            background-color: #fff;
+
+        .logo-img {
+            width: 120px;
+            margin-bottom: 20px;
+        }
+
+        h1 {
+            font-size: 3.5rem;
+            margin: 0;
+        }
+
+        .tagline {
+            font-size: 1.2rem;
+            margin: 15px 0 30px;
+            color: #d1b3ff;
+        }
+
+        .kural-box {
+            background: rgba(255, 255, 255, 0.05);
+            padding: 20px;
+            border-radius: 15px;
+            border-left: 4px solid var(--gold);
+            max-width: 600px;
+            margin-bottom: 40px;
+        }
+
+        .kural-text {
+            font-style: italic;
+            font-size: 1.1rem;
+            line-height: 1.6;
+        }
+
+        /* Google Play Button */
+        .download-btn {
+            background-color: #000;
+            color: white;
+            padding: 12px 30px;
+            border-radius: 10px;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            border: 1px solid #555;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .download-btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 0 20px rgba(255, 215, 0, 0.4);
+        }
+
+        .btn-text {
+            text-align: left;
+            margin-left: 10px;
+        }
+
+        .btn-text small { font-size: 0.7rem; display: block; }
+        .btn-text b { font-size: 1.2rem; }
+
+        /* Features Section */
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            padding: 60px 20px;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .feature-card {
+            background: rgba(255, 255, 255, 0.03);
+            padding: 30px;
+            border-radius: 20px;
+            text-align: center;
+            transition: 0.3s;
+        }
+
+        .feature-card i {
+            font-size: 2.5rem;
+            color: var(--gold);
+            margin-bottom: 15px;
+        }
+
+        footer {
             padding: 40px;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            text-align: center;
+            font-size: 0.9rem;
+            border-top: 1px solid rgba(255,255,255,0.1);
         }
-        h1 { color: #4b0082; border-bottom: 2px solid #4b0082; padding-bottom: 10px; }
-        h2 { color: #4b0082; margin-top: 30px; }
-        .highlight { background-color: #f0e6ff; padding: 15px; border-left: 5px solid #4b0082; margin: 20px 0; }
-        footer { text-align: center; margin-top: 40px; font-size: 0.9em; color: #777; }
+
+        footer a { color: var(--gold); text-decoration: none; margin: 0 10px; }
+
+        @media (max-width: 600px) {
+            h1 { font-size: 2.5rem; }
+        }
     </style>
 </head>
 <body>
 
-<div class="container">
-    <h1>Privacy Policy</h1>
-    <p><strong>Last Updated: March 18, 2026</strong></p>
-    <p>Welcome to <strong>ZodiacMind</strong>. Your privacy is our priority. This policy explains how we handle your information within the ZodiacMind Android application.</p>
+    <section class="hero">
+        <img src="logo.png" alt="ZodiacMind Logo" class="logo-img">
+        <h1><b>ZODIAC</b> MIND</h1>
+        <p class="tagline">உங்கள் எதிர்காலம் உங்கள் கையில் - துல்லியமான கணிப்புகளுடன்!</p>
 
-    <div class="highlight">
-        <strong>Core Principle:</strong> ZodiacMind is designed to be a "Privacy-First" app. <strong>We do not send your personal birth data to any external servers.</strong> All astrological calculations and PDF reports are generated locally on your device.
+        <div class="kural-box">
+            <p class="kural-text">
+                "தெய்வத்தான் ஆகா தெனினும் முயற்சிதன்<br>
+                மெய்வருத்தக் கூலி தரும்."
+            </p>
+            <small>- திருக்குறள் 619</small>
+        </div>
+
+        <a href="YOUR_GOOGLE_PLAY_LINK_HERE" class="download-btn">
+            <i class="fab fa-google-play fa-2x"></i>
+            <div class="btn-text">
+                <small>GET IT ON</small>
+                <b>Google Play</b>
+            </div>
+        </a>
+    </section>
+
+    <div class="features">
+        <div class="feature-card">
+            <i class="fas fa-scroll"></i>
+            <h3>இலவச ஜாதகம்</h3>
+            <p>பிறந்த நேரம் மற்றும் இடத்தை வைத்து துல்லியமான ஜாதகக் கட்டத்தைப் பெறுங்கள்.</p>
+        </div>
+        <div class="feature-card">
+            <i class="fas fa-heart"></i>
+            <h3>திருமணப் பொருத்தம்</h3>
+            <p>ஆண் மற்றும் பெண்ணின் விபரங்களைக் கொண்டு 10 பொருத்தங்களை உடனே அறியுங்கள்.</p>
+        </div>
+        <div class="feature-card">
+            <i class="fas fa-file-pdf"></i>
+            <h3>PDF அறிக்கை</h3>
+            <p>உங்கள் முழு ஜாதகத்தையும் அழகிய PDF கோப்பாகத் தரவிறக்கம் செய்யுங்கள்.</p>
+        </div>
     </div>
 
-    <h2>1. Information We Collect (On-Device Only)</h2>
-    <p>To generate accurate horoscopes and matching reports, the app asks for:</p>
-    <ul>
-        <li><strong>Personal Details:</strong> Name, Gender.</li>
-        <li><strong>Birth Details:</strong> Date of Birth, Time of Birth, and Place of Birth (Location).</li>
-    </ul>
-    <p>This data is used <strong>only</strong> to perform astronomical calculations within the app. Once a PDF report is generated, the data remains on your phone unless you choose to share the PDF via other apps.</p>
-
-    <h2>2. Third-Party Services</h2>
-    <p>While we do not store your data, we use industry-standard third-party tools to improve the app experience and support development:</p>
-    
-    <h3>A. Google Firebase Analytics</h3>
-    <p>We use Firebase to understand how users interact with the app (e.g., which features are used most). This data is <strong>anonymous</strong> and does not include your name or birth details.</p>
-    
-    <h3>B. Google AdMob</h3>
-    <p>Our app displays advertisements provided by Google AdMob. AdMob may use pseudonymous identifiers (like your Advertising ID) to show relevant ads. You can manage these settings in your Android device's Google Settings.</p>
-
-    <h2>3. PDF Generation & Storage</h2>
-    <p>The app requires permission to save the generated Horoscope PDF to your device's storage. You have full control over these files and can delete them at any time.</p>
-
-    <h2>4. Data Security</h2>
-    <p>Since your data never leaves your device to reach our servers, the security of your birth information is protected by your own device's security measures.</p>
-
-    <h2>5. Children’s Privacy</h2>
-    <p>ZodiacMind does not knowingly collect any personally identifiable information from children under 13. If a parent or guardian becomes aware that their child has provided us with information, please contact us.</p>
-
-    <h2>6. Changes to This Policy</h2>
-    <p>We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes.</p>
-
-    <h2>7. Contact Us</h2>
-    <p>If you have any questions about this Privacy Policy, please contact us at:</p>
-    <p><strong>Email:</strong> support@zodiacmind.in<br>
-    <strong>Website:</strong> <a href="https://zodiacmind.in">zodiacmind.in</a></p>
-</div>
-
-<footer>
-    &copy; 2026 ZodiacMind App. All Rights Reserved.
-</footer>
+    <footer>
+        <p>&copy; 2026 ZodiacMind.in | All Rights Reserved.</p>
+        <p>
+            <a href="privacy-policy.html">Privacy Policy</a> | 
+            <a href="mailto:support@zodiacmind.in">Support</a>
+        </p>
+    </footer>
 
 </body>
 </html>
