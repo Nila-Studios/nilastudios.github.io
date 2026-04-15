@@ -15,9 +15,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap">
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1943296208043134" crossorigin="anonymous"></script>
-    <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
+    <link rel="stylesheet" href="../../style.css">
+    <script src="../../main.js" defer></script>
     <style>
         :root {
             --brand: #330033;
@@ -34,15 +33,7 @@
 
         * { box-sizing: border-box; }
         html { scroll-behavior: smooth; }
-        body { margin: 0; font-family: "Inter", Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; }
-
-        header { background-color: #330033; color: #fff; position: sticky; top: 0; z-index: 999; box-shadow: 0 8px 22px rgba(20, 0, 20, 0.18); }
-        .header-inner { width: min(1120px, calc(100% - 1.2rem)); margin: 0 auto; padding: 0.85rem 0; display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
-        .brand { display: inline-flex; align-items: center; gap: 0.8rem; color: #fff; text-decoration: none; font-weight: 800; letter-spacing: 0.14em; }
-        .brand img { width: 50px; height: 50px; object-fit: contain; }
-        .nav-links { display: flex; gap: 1.5rem; align-items: center; }
-        .nav-links a { color: #fff; text-decoration: none; font-size: 0.95rem; font-weight: 600; opacity: 0.95; transition: opacity 0.2s ease; }
-        .nav-links a:hover { opacity: 1; }
+        body { margin: 0; font-family: "Inter", "Tiro Tamil", serif; background: var(--bg); color: var(--text); line-height: 1.6; }
 
         .container { width: min(1120px, calc(100% - 1.2rem)); margin: 0 auto; padding: 2rem 0; }
 
@@ -111,14 +102,7 @@
         .rasi-card .tamil-name { display: block; font-size: 0.95rem; color: var(--muted); margin-top: 0.2rem; font-weight: 500; }
         .rasi-card p { font-size: 0.9rem; color: var(--muted); margin: 0.8rem 0 0; line-height: 1.5; }
 
-        footer { text-align: center; padding: 1.5rem 1rem 2.5rem; margin-top: 0.5rem; font-size: 0.95rem; color: var(--muted); border-top: 1px solid var(--border); }
-        footer a { color: var(--brand); text-decoration: none; font-weight: 600; margin: 0 0.25rem; }
-
         @media (max-width: 640px) {
-            .header-inner { padding: 0.8rem 0; }
-            .brand { font-size: 0.9rem; }
-            .nav-links { gap: 1rem; }
-            .nav-links a { font-size: 0.85rem; }
             .lang-toggle a, .lang-toggle span {
                 padding: 0.55rem 1.2rem;
                 min-width: 90px;
@@ -129,19 +113,7 @@
 </head>
 
 <body>
-    <header>
-        <div class="header-inner">
-            <a class="brand" href="../../index.html" aria-label="ZodiacMind home page">
-                <img src="../../logo.png" alt="ZodiacMind logo" width="50" height="50">
-                <span><strong>ZODIAC</strong> MIND</span>
-            </a>
-            <nav class="nav-links" aria-label="Primary navigation">
-                <a href="../../index.html">Home</a>
-                <a href="rasi-guide.html">Rasi Guide</a>
-                <a href="../../privacy-policy/index.html">Privacy Policy</a>
-            </nav>
-        </div>
-    </header>
+    <header id="header-container" data-root="../../"></header>
 
     <main class="container">
         <div class="section-heading">
@@ -163,8 +135,6 @@
                 <span class="tamil-name">Mesham</span>
                 <p>Active, brave, and natural-born leaders with a pioneering spirit.</p>
             </a>
-            <ins class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-layout-key="-cx-o+4v-5s-2r"
-                data-ad-client="ca-pub-1943296208043134" data-ad-slot="3432894457"></ins>
             <a href="english/rishabam-rasi.html" class="rasi-card">
                 <img src="../../images/zodiac-signs/taurus.png" alt="Taurus">
                 <h3>Taurus</h3>
@@ -232,19 +202,9 @@
                 <p>Kind, spiritual, and imaginative with a deep sense of empathy.</p>
             </a>
         </div>
-        <!-- rasi-guide-bottom -->
-        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1943296208043134" data-ad-slot="3197090739"
-            data-ad-format="auto" data-full-width-responsive="true"></ins>
     </main>
 
-    <footer>
-        <p>&copy; 2026 ZodiacMind.in | All Rights Reserved.</p>
-        <p>
-            <a href="../../index.html">Home</a> |
-            <a href="../../privacy-policy/index.html">Privacy Policy</a> |
-            <a href="mailto:support@zodiacmind.in">Support</a>
-        </p>
-    </footer>
+    <footer id="footer-container" data-root="../../"></footer>
 </body>
 
 </html>
