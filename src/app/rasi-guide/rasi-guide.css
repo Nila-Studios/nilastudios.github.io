@@ -1,0 +1,121 @@
+.rasi-guide-page {
+  padding: 2rem 0;
+  width: min(1120px, calc(100% - 1.2rem));
+  margin: 0 auto;
+}
+.section-heading {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+.section-heading h1 {
+  color: var(--brand);
+  font-size: clamp(2.2rem, 4vw, 3rem);
+  margin-bottom: 0.5rem;
+}
+.section-heading p {
+  color: var(--muted);
+  font-size: 1.1rem;
+  max-width: 700px;
+  margin: 0 auto;
+}
+.lang-switch-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 3rem;
+}
+.lang-toggle {
+  display: inline-flex;
+  background: rgba(51, 0, 51, 0.05);
+  padding: 5px;
+  border-radius: 100px;
+  border: 1px solid var(--border);
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.02);
+  position: relative;
+}
+.lang-toggle a,
+.lang-toggle span {
+  padding: 0.65rem 1.8rem;
+  border-radius: 100px;
+  font-size: 0.9rem;
+  font-weight: 700;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  min-width: 110px;
+  text-align: center;
+  display: inline-block;
+  text-decoration: none;
+}
+.lang-toggle span.active {
+  background: var(--surface);
+  color: var(--brand);
+  box-shadow: 0 4px 12px rgba(51, 0, 51, 0.15);
+}
+.lang-toggle a {
+  color: var(--muted);
+}
+.lang-toggle a:hover {
+  color: var(--brand);
+  background: rgba(255, 255, 255, 0.5);
+}
+.rasi-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.5rem;
+}
+.rasi-card {
+  background: var(--surface);
+  border-radius: var(--radius);
+  padding: 1.8rem 1.5rem;
+  text-align: center;
+  text-decoration: none;
+  color: inherit;
+  border: 1px solid var(--border);
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
+  box-shadow: 0 10px 25px rgba(51, 0, 51, 0.05);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.rasi-card:hover {
+  transform: translateY(-8px);
+  box-shadow: var(--shadow);
+  border-color: var(--accent);
+}
+.rasi-card img {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto 1.2rem;
+  transition: transform 0.3s ease;
+  object-fit: contain;
+}
+.rasi-card:hover img {
+  transform: scale(1.1);
+}
+.rasi-card h3 {
+  margin: 0;
+  color: var(--brand);
+  font-size: 1.3rem;
+  font-weight: 700;
+}
+.tamil-name {
+  display: block;
+  font-size: 0.95rem;
+  color: var(--muted);
+  margin-top: 0.2rem;
+  font-weight: 500;
+}
+.rasi-card p {
+  font-size: 0.9rem;
+  color: var(--muted);
+  margin: 0.8rem 0 0;
+  line-height: 1.6;
+}
+@media (max-width: 640px) {
+  .lang-toggle a,
+  .lang-toggle span {
+    padding: 0.55rem 1.2rem;
+    min-width: 90px;
+    font-size: 0.85rem;
+  }
+}

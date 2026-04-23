@@ -1,0 +1,352 @@
+{
+  "signs": [
+    {
+      "id": "mesham-rasi",
+      "englishName": "Aries",
+      "tamilName": "மேஷம்",
+      "englishSummary": "Active, brave, and natural-born leaders with a pioneering spirit.",
+      "tamilSummary": "சுறுசுறுப்பான, தைரியமான மற்றும் முன்னோடி மனப்பான்மை கொண்ட இயற்கையான தலைவர்கள்.",
+      "english": {
+        "intro": "Mesham, known as Aries in Western astrology, is the first sign of the zodiac. It represents the beginning of the astrological cycle and is ruled by the fiery planet Mars. People born under this rasi are known for their vibrant energy and pioneering spirit.",
+        "personality": "Individuals born in Mesham Rasi are natural-born leaders. They possess a magnetic personality and an infectious enthusiasm that inspires others. They are often the first to start new projects and aren't afraid to take risks. Their personality is characterized by honesty and directness; you will always know where you stand with a Mesham person. They value independence and prefer to carve their own path rather than following the crowd.",
+        "strengths": "The primary strength of Mesham is their courage. They face challenges head-on without hesitation. Their determination is unparalleled; once they set a goal, they pursue it with single-minded focus. They are also highly confident and optimism, believing that they can overcome any obstacle. Their honesty makes them reliable friends and partners who will always tell you the truth.",
+        "weaknesses": "On the flip side, their fiery nature can lead to impulsiveness. Mesham individuals often act before they think, which can lead to unnecessary complications. They can be quite impatient, wanting results immediately. Their short temper is another common trait, although they tend to forget just as quickly as they got angry. At times, their strong-willed nature can come across as egoistic or stubborn.",
+        "career": "Mesham individuals thrive in careers that offer excitement and authority. They are excellent entrepreneurs, as they love the thrill of building something from scratch. Their competitive nature makes them great in sports and sales. Many Mesham natives also find success in the military, police force, or emergency services, where their quick thinking and bravery are highly valued. They prefer leadership roles over subordinate positions.",
+        "marriage": "In marriage and relationships, Mesham Rasi people are passionate and devoted. They seek a partner who can match their energy levels and respect their need for independence. They are most compatible with Simmam (Leo) and Dhanusu (Sagittarius), as these fire signs share their zest for life. A marriage with a Mesham individual is never dull, as they constantly seek new ways to keep the spark alive.",
+        "luckyColor": "Red",
+        "luckyNumber": "9, 18, and 27",
+        "luckyStone": "Red Coral (Moonga)"
+      },
+      "tamil": {
+        "intro": "ஜோதிட மண்டலத்தின் முதல் ராசி மேஷம் ஆகும். இது நெருப்புத் தத்துவத்தைக் கொண்டது. செவ்வாய் பகவானை அதிபதியாகக் கொண்ட இந்த ராசியில் பிறந்தவர்கள், எதையும் துணிச்சலுடன் எதிர்கொள்ளும் ஆற்றல் படைத்தவர்கள். சித்திரை மாதத்தில் சூரியன் இந்த ராசியில் உச்சம் பெறுவதால், இவர்கள் மிகுந்த தேஜஸ் உடையவர்களாக இருப்பார்கள்.",
+        "personality": "மேஷ ராசியினர் இயற்கையிலேயே தலைமைப் பண்பு மிகுந்தவர்கள். எதற்கும் தயங்காமல் முன்வந்து காரியங்களைச் செய்யும் ஆற்றல் இவர்களிடம் உண்டு. மற்றவர்களை வழிநடத்துவதில் இவர்கள் வல்லவர்கள். எதையும் வெளிப்படையாகப் பேசும் குணம் கொண்டவர்கள். இவர்களிடம் கள்ளம் கபடம் இருக்காது. சுதந்திரமாகச் செயல்படவே விரும்புவார்கள், யாருடைய கட்டுப்பாட்டிலும் இருக்க மாட்டார்கள். புதுமையான சிந்தனைகள் இவர்களிடம் எப்போதும் ஊற்றெடுக்கும்.",
+        "strengths": "மேஷ ராசியினரின் மிகப்பெரிய பலமே அவர்களின் தைரியம் தான். எபேர்ப்பட்ட சவாலையும் கண்டு இவர்கள் அஞ்ச மாட்டார்கள். இவர்களிடம் இருக்கும் தன்னம்பிக்கை மற்றவர்களுக்கு உத்வேகத்தை அளிக்கும். நேர்மை மற்றும் உண்மை இவர்களின் அடையாளங்கள். எதையும் நேரிடையாக எதிர்கொள்வார்கள். கடின உழைப்பாளிகளான இவர்கள், தான் எடுத்த காரியத்தை முடிக்கும் வரை ஓயமாட்டார்கள். புதிய முயற்சிகளைத் தொடங்குவதில் இவர்களுக்கு நிகர் இவர்களே.",
+        "weaknesses": "இவர்களிடம் இருக்கும் முக்கிய பலவீனம் முன்கோபம். சிறு விஷயங்களுக்கும் எளிதில் உணர்ச்சிவசப்படுவார்கள். அவசரப்பட்டு முடிவெடுப்பது இவர்களுக்கு சில நேரங்களில் சிக்கல்களை உருவாக்கும். பொறுமை என்பது இவர்களிடம் சற்று குறைவாகவே இருக்கும். மற்றவர்கள் சொல்வதைக் கேட்காமல் தன் போக்கிலேயே செல்வது பிடிவாதமாகத் தோன்றலாம். எதிலும் உடனடி பலனை எதிர்பார்ப்பதால், நீண்ட காலத் திட்டங்களில் இவர்களுக்குத் தொய்வு ஏற்படலாம்.",
+        "career": "செவ்வாயின் ஆதிக்கம் இருப்பதால், இவர்கள் ராணுவம், காவல் துறை, தீயணைப்புத் துறை போன்ற சாகசம் நிறைந்த துறைகளில் சிறந்து விளங்குவார்கள். பொறியியல், மருத்துவம் (குறிப்பாக அறுவை சிகிச்சை), மற்றும் விளையாட்டுத் துறையிலும் இவர்கள் கொடிகட்டிப் பறப்பார்கள். சொந்தமாகத் தொழில் தொடங்கும் ஆர்வம் இவர்களிடம் அதிகம் இருக்கும். ஒரு நிறுவனத்தில் மேலாளர் அல்லது தலைமைப் பொறுப்பில் இருக்கும்போது இவர்கள் மிகச் சிறப்பாகச் செயல்படுவார்கள்.",
+        "marriage": "திருமண வாழ்க்கையில் மேஷ ராசியினர் மிகவும் பாசமானவர்களாக இருப்பார்கள். இவர்கள் தன் துணையின் மீது மிகுந்த அன்பு செலுத்துவார்கள். இவர்களுக்கு சிம்மம் (Leo) மற்றும் தனுசு (Sagittarius) ராசியினருடன் மிகச் சிறந்த பொருத்தம் அமையும். இந்த ராசியினர் அதே நெருப்புத் தத்துவத்தைக் கொண்டிருப்பதால், ஒருவரை ஒருவர் நன்கு புரிந்து கொண்டு வாழ்வார்கள். மிதுனம் மற்றும் கும்ப ராசியினருடனும் இவர்களுக்கு நல்ல இணக்கம் இருக்கும்.",
+        "luckyColor": "சிவப்பு",
+        "luckyNumber": "9, 18, 27",
+        "luckyStone": "பவளம் (Coral)"
+      }
+    },
+    {
+      "id": "rishabam-rasi",
+      "englishName": "Taurus",
+      "tamilName": "ரிஷபம்",
+      "englishSummary": "Determined, reliable, and artistically inclined with a steady nature.",
+      "tamilSummary": "உறுதியான, நம்பகமான மற்றும் நிலையான சுபாவம் கொண்ட கலை உணர்வு மிக்கவர்கள்.",
+      "english": {
+        "intro": "Rishabam Rasi, represented by the Bull and known as Taurus in Western astrology, is the second sign of the zodiac. Ruled by the planet Venus (Sukran), this rasi embodies stability, beauty, and a love for the finer things in life. It is an Earth sign, making its natives practical and well-grounded.",
+        "personality": "People born in Rishabam Rasi are known for their calm and composed demeanor. They are highly reliable and value security above all else. A Rishabam native is often the \"anchor\" in their social circle, providing a sense of stability to those around them. They have a deep appreciation for art, music, and nature. While they are usually gentle, they can be incredibly firm when their values are challenged. They prefer a steady pace of life and rarely rush into decisions.",
+        "strengths": "The greatest strength of a Rishabam person is their persistence. Once they commit to a task, they will see it through to the end, regardless of the obstacles. They are incredibly loyal friends and partners. Their practical nature helps them manage resources and finances very well. They possess immense patience and a strong sense of responsibility. Their artistic inclination often makes them creative and tasteful in everything they do.",
+        "weaknesses": "Resistance to change is a significant weakness for Rishabam Rasi. They are creatures of habit and can become very uncomfortable when forced out of their routine. This can manifest as extreme stubbornness. At times, their love for comfort can turn into laziness or over-indulgence. They can be quite possessive of their belongings and relationships, leading to friction with people who value more freedom.",
+        "career": "Rishabam natives excel in professions that require patience, stability, and an eye for detail. They are naturally gifted in the fields of finance, banking, and real estate. Because Venus rules them, they also find great success in creative industries like interior design, fashion, music, and jewelry. Their connection to the Earth sign also makes them good at architecture, agriculture, and hospitality. They prefer stable jobs with clear growth paths over risky ventures.",
+        "marriage": "In marriage, Rishabam individuals are devoted and romantic. They look for a stable and long-term commitment. They enjoy creating a comfortable and beautiful home for their family. They are most compatible with other Earth signs like Kanni (Virgo) and Magaram (Capricorn), who share their practical outlook. They also share a good bond with Kadagam (Cancer) and Meenam (Pisces) due to their emotional depth and nurturing nature.",
+        "luckyColor": "White, Cream, and Pink",
+        "luckyNumber": "2, 7, and 9",
+        "luckyStone": "Diamond (Heera)"
+      },
+      "tamil": {
+        "intro": "ஜோதிட மண்டலத்தின் இரண்டாவது ராசி ரிஷபம் ஆகும். இது நிலத் தத்துவத்தைக் கொண்டது. சுக்கிர பகவானை அதிபதியாகக் கொண்ட இந்த ராசியில் பிறந்தவர்கள், அமைதியான சுபாவமும் கலை நயமும் மிக்கவர்கள். காளை மாட்டைச் சின்னமாகத் கொண்ட இவர்கள், எதிலும் உறுதியாகவும் நிதானமாகவும் செயல்படுவார்கள்.",
+        "personality": "ரிஷப ராசியினர் மிகவும் பொறுமையானவர்கள். எதையும் நிதானமாக யோசித்தே செய்வார்கள். இவர்களிடம் ஒருவிதமான வசீகரம் இருக்கும். ஆடம்பரமான மற்றும் நேர்த்தியான பொருட்களை விருப்புவார்கள். இவர்கள் குடும்பத்தின் மீது மிகுந்த பற்று கொண்டவர்கள். உறவுகளுக்கு அதிக முக்கியத்துவம் கொடுப்பார்கள். இவர்களின் பேச்சு மென்மையாகவும் அதே சமயம் தெளிவாகவும் இருக்கும். இவர்கள் மாற்றங்களை எளிதில் விரும்புவதில்லை, ஒரே பாதையில் செல்வதையே விரும்புவார்கள்.",
+        "strengths": "ரிஷப ராசியினரின் மிகப்பெரிய பலம் அவர்களின் விடாமுயற்சி. ஒரு காரியத்தை கையில் எடுத்தால், அதை முடிக்கும் வரை ஓயமாட்டார்கள். இவர்களிடம் மிகுந்த பொறுமை உண்டு. நம்பகத்தன்மை இவர்களின் மற்றொரு சிறப்பு. இவர்கள் கொடுத்த வாக்கை எக்காரணம் கொண்டும் மீற மாட்டார்கள். பணத்தை நிர்வகிப்பதில் இவர்கள் கில்லாடிகள். கலை உணர்வு மிக்கவர்கள் என்பதால், அழகான விஷயங்களை உருவாக்குவதில் வல்லவர்கள்.",
+        "weaknesses": "பிடிவாதம் இவர்களின் முக்கிய பலவீனமாகப் பார்க்கப்படுகிறது. தான் பிடித்த முயலுக்கு மூன்று கால் என்பதில் உறுதியாக இருப்பார்கள். இவர்களின் நிதானம் சில நேரங்களில் மந்தமாகத் தெரியலாம். புதுமைகளை ஏற்றுக்கொள்வதில் இவர்களுக்குத் தயக்கம் இருக்கும். சில நேரங்களில் அதிகப்படியான வசதிகளை விரும்புவது இவர்களைச் சோம்பேறியாக மாற்றக்கூடும். இவர்களின் பொறாமை குணம் அவ்வப்போது வெளிப்படலாம்.",
+        "career": "சுக்கிரனின் ஆதிக்கம் இருப்பதால், இவர்கள் கலை, இசை, சினிமா, ஆடை வடிவமைப்பு மற்றும் அழகு சாதனத் துறைகளில் சிறந்து விளங்குவார்கள். வங்கியியல், நிதி மேலாண்மை, மற்றும் கணக்குத் துறையிலும் இவர்கள் நல்ல நிலையை எட்டுவார்கள். நிலம் சம்பந்தமான தொழில், விவசாயம், மற்றும் கட்டுமானத் துறையிலும் இவர்களுக்கு நல்ல லாபம் கிடைக்கும். இவர்கள் ஒரு வேலையைத் தொடங்கினால் அதை நேர்த்தியாகச் செய்து முடிப்பார்கள்.",
+        "marriage": "திருமண வாழ்க்கையில் ரிஷப ராசியினர் மிகவும் உண்மையானவர்களாக இருப்பார்கள். தன் துணையை மகிழ்ச்சியாக வைத்திருப்பார்கள். இவர்களுக்கு கன்னி (Virgo) மற்றும் மகரம் (Capricorn) ராசியினருடன் மிகச் சிறந்த பொருத்தம் அமையும். இந்த ராசியினரும் நிலத் தத்துவத்தைக் கொண்டிருப்பதால், வாழ்க்கை சீராக அமையும். கடகம் மற்றும் மீன ராசியினருடனும் இவர்களுக்கு நல்ல அன்யோன்யம் இருக்கும்.",
+        "luckyColor": "வெள்ளை, கிரீம் மற்றும் வெளிர் நீலம்",
+        "luckyNumber": "2, 7, 9",
+        "luckyStone": "வைரம் (Diamond)"
+      }
+    },
+    {
+      "id": "mithunam-rasi",
+      "englishName": "Gemini",
+      "tamilName": "மிதுனம்",
+      "englishSummary": "Intellectual, communicative, and versatile individuals who love variety.",
+      "tamilSummary": "அறிவுத்திறன், பேச்சுத்திறன் மற்றும் பன்முகத்தன்மை கொண்ட மாற்றங்களை விரும்புபவர்கள்.",
+      "english": {
+        "intro": "Mithunam Rasi, known as Gemini in Western astrology, is the third sign of the zodiac. It is represented by the Twins, symbolizing its dual nature. Ruled by Mercury (Budhan), the planet of communication and intellect, Mithunam is an Air sign, making its natives mentally active, sociable, and versatile.",
+        "personality": "Individuals born in Mithunam Rasi are characterized by their quick wit and excellent communication skills. They are naturally curious and love to learn about everything. Their personality is often described as dual—they can be serious and contemplative one moment and playful and social the next. They are the life of the party and can talk to almost anyone about any subject. They value variety and get bored easily with routine.",
+        "strengths": "The greatest strength of Mithunam is their adaptability. They can fit into any situation and handle change with ease. Their intelligence and ability to process information quickly make them excellent problem solvers. They are highly expressive and have a great sense of humor. Their youthful energy and openness to new ideas keep them ahead of the curve in many aspects of life.",
+        "weaknesses": "Their dual nature can sometimes lead to indecisiveness. Mithunam natives often find it difficult to stick to one path or decision for long. They can be prone to restlessness and anxiety if they don't have enough mental stimulation. At times, their talkative nature can lead to gossip or being seen as superficial. They may also struggle with consistency, as they are always looking for the next big thing.",
+        "career": "Mithunam individuals excel in careers that involve communication, information, and travel. They make excellent writers, journalists, public speakers, and teachers. Their persuasive skills also make them very successful in sales, marketing, and public relations. They also thrive in the IT sector and any field that requires quick thinking and multitasking. They prefer a work environment that is dynamic and intellectually challenging.",
+        "marriage": "In marriage, Mithunam natives seek mental compatibility above all else. They need a partner who can keep up with their conversations and share their interests. They are most compatible with Thulam (Libra) and Kumbam (Aquarius), as these fellow Air signs understand their need for freedom and intellectual stimulation. They also share a good bond with Mesham (Aries) and Simmam (Leo) due to their shared enthusiasm for life.",
+        "luckyColor": "Green",
+        "luckyNumber": "5, 14, and 23",
+        "luckyStone": "Emerald (Panna)"
+      },
+      "tamil": {
+        "intro": "ஜோதிட மண்டலத்தின் மூன்றாவது ராசி மிதுனம் ஆகும். இது காற்றுத் தத்துவத்தைக் கொண்டது. புதன் பகவானை அதிபதியாகக் கொண்ட இந்த ராசியில் பிறந்தவர்கள், அறிவாற்றல் மற்றும் பேச்சுத்திறன் மிக்கவர்கள். இரட்டையர்களைச் சின்னமாகத் கொண்ட இவர்கள், எதிலும் பன்முகத் தன்மையுடன் விளங்குவார்கள்.",
+        "personality": "மிதுன ராசியினர் கலகலப்பான சுபாவம் கொண்டவர்கள். யாரிடமும் எளிதில் பழகும் தன்மை இவர்களிடம் உண்டு. இவர்களின் பேச்சு மற்றவர்களைக் கவரும் வகையில் இருக்கும். புதிய விஷயங்களைக் கற்றுக்கொள்வதில் இவர்களுக்கு ஆர்வம் அதிகம். ஒரு சமயத்தில் பல வேலைகளைச் செய்யும் திறன் இவர்களிடம் உண்டு. இவர்கள் எப்போதும் இளமையாகவும் உற்சாகமாகவும் இருப்பார்கள். எதையும் அறிவார்ந்த முறையில் அணுகுவார்கள்.",
+        "strengths": "இவர்களின் மிகப்பெரிய பலம் இவர்களின் புத்திசாலித்தனம் மற்றும் நகைச்சுவை உணர்வு. எபேர்ப்பட்ட கடினமான சூழலையும் தனது பேச்சால் எளிதாக்கி விடுவார்கள். சூழ்நிலைக்கு ஏற்பத் தன்னை மாற்றிக்கொள்ளும் குணம் இவர்களிடம் உண்டு. இவர்களின் கற்பனைத் திறன் மற்றும் படைப்பாற்றல் மிகச் சிறப்பாக இருக்கும். விரைவாகக் கற்றுக் கொள்ளும் திறன் இவர்களைப் பல துறைகளில் வெற்றி பெறச் செய்யும்.",
+        "weaknesses": "மிதுன ராசியினரிடம் இருக்கும் முக்கிய பலவீனம் நிலைத்தன்மை இல்லாமை. ஒரு விஷயத்தில் நீண்ட நேரம் கவனம் செலுத்துவது இவர்களுக்குக் கடினம். அடிக்கடி மனம் மாறிக்கொண்டே இருப்பார்கள். எதிலும் மேலோட்டமாகப் பார்க்கும் குணம் இவர்களுக்கு உண்டு. சில நேரங்களில் அதிகப்படியான பேச்சு இவர்களைத் தேவையற்ற சிக்கல்களில் மாட்டிவிடும். பதற்றம் மற்றும் கவலை இவர்களை எளிதில் தொற்றிக்கொள்ளும்.",
+        "career": "புதனின் ஆதிக்கம் இருப்பதால், இவர்கள் எழுத்து, பத்திரிகை, ஊடகம் மற்றும் கல்வித் துறைகளில் சிறந்து விளங்குவார்கள். சிறந்த பேச்சாளர்களாகவும், ஆசிரியர்களாகவும், ஆலோசகர்களாகவும் திகழ்வார்கள். தகவல் தொழில்நுட்பம் (IT), விற்பனை மற்றும் சந்தைப்படுத்தல் துறைகளிலும் இவர்கள் கொடிகட்டிப் பறப்பார்கள். பயணம் சார்ந்த தொழில்களிலும் இவர்களுக்கு நல்ல வருமானம் கிடைக்கும்.",
+        "marriage": "திருமண வாழ்க்கையில் மிதுன ராசியினர் ஒரு தோழமையைத் தேடுவார்கள். இவர்களுக்கு துலாம் (Libra) மற்றும் கும்பம் (Aquarius) ராசியினருடன் மிகச் சிறந்த பொருத்தம் அமையும். இந்த ராசியினருடன் இவர்களால் ஆழமான கருத்துக்களைப் பகிர்ந்து கொள்ள முடியும். மேஷம் மற்றும் சிம்ம ராசியினருடனும் இவர்களுக்கு நல்ல இணக்கம் இருக்கும். தனது துணையின் சுதந்திரத்திற்கு இவர்கள் மதிப்பளிப்பார்கள்.",
+        "luckyColor": "பச்சை",
+        "luckyNumber": "5, 14, 23",
+        "luckyStone": "மரகதம் (Emerald)"
+      }
+    },
+    {
+      "id": "kadagam-rasi",
+      "englishName": "Cancer",
+      "tamilName": "கடகம்",
+      "englishSummary": "Emotional, affectionate, and highly imaginative with a caring soul.",
+      "tamilSummary": "உணர்ச்சிப்பூர்வமான, அன்பான மற்றும் அக்கறையுள்ள மென்மையான மனம் கொண்டவர்கள்.",
+      "english": {
+        "intro": "Kadagam Rasi, known as Cancer in Western astrology, is the fourth sign of the zodiac. It is represented by the Crab and is ruled by the Moon (Chandran). As a Water sign, Kadagam natives are deeply emotional, intuitive, and nurturing, with a strong connection to home and family.",
+        "personality": "Individuals born in Kadagam Rasi are known for their sensitive and caring nature. They possess a high degree of emotional intelligence and can easily sense the feelings of others. Like the crab's shell, they can be protective and sometimes retreat into their own space when feeling vulnerable. They are deeply loyal to their loved ones and will go to great lengths to ensure their safety and happiness. Their moods can sometimes fluctuate with the phases of the moon.",
+        "strengths": "The primary strength of Kadagam is their immense empathy and nurturing spirit. They are excellent caregivers and loyal friends. Their intuition is a powerful guide, often helping them navigate complex situations. They are highly imaginative and creative, with a strong appreciation for tradition and history. Their tenacity and protective nature make them the \"motherly\" figure in many social and professional circles.",
+        "weaknesses": "Their deep sensitivity can sometimes lead to moodiness or over-emotional reactions. Kadagam natives can be prone to dwelling on the past, making it difficult for them to move on from emotional hurts. They can be quite cautious and sometimes suspicious of newcomers until trust is established. At times, their protective nature can border on being possessive or clingy in relationships.",
+        "career": "Kadagam individuals thrive in careers that allow them to care for others or use their creative talents. They make excellent doctors, nurses, counselors, and teachers. Their connection to the home often leads them to success in real estate, interior design, or the hospitality industry. Their intuitive nature also makes them good at business and finance. They prefer a work environment that is dynamic and \"family-like.\"",
+        "marriage": "In marriage, Kadagam Rasi people are extremely devoted and seek emotional security. They value a stable home life and are very protective of their spouse and children. They are most compatible with Earth signs like Rishabam (Taurus) and Kanni (Virgo), who provide the stability they crave. They also share a deep emotional bond with fellow Water signs like Viruchigam (Scorpio) and Meenam (Pisces).",
+        "luckyColor": "White, Silver, and Cream",
+        "luckyNumber": "2, 7, and 11",
+        "luckyStone": "Pearl (Moti)"
+      },
+      "tamil": {
+        "intro": "ஜோதிட மண்டலத்தின் நான்காவது ராசி கடகம் ஆகும். இது நீர் தத்துவத்தைக் கொண்டது. சந்திர பகவானை அதிபதியாகக் கொண்ட இந்த ராசியில் பிறந்தவர்கள், மென்மையான மனமும் மிகுந்த கற்பனைத் திறனும் கொண்டவர்கள். நண்டு சின்னத்தைக் கொண்ட இவர்கள், தன் குடும்பத்தின் மீது மிகுந்த பாசம் கொண்டிருப்பார்கள்.",
+        "personality": "கடக ராசியினர் மிகவும் உணர்ச்சிவசப்படக்கூடியவர்கள். மற்றவர்களின் உணர்வுகளை எளிதில் புரிந்து கொள்ளும் ஆற்றல் இவர்களிடம் உண்டு. இவர்கள் எப்போதும் அமைதியையும் நிம்மதியையும் விருபுவார்கள். தன் வீட்டை மிக அழகாகவும் வசதியாகவும் வைத்துக்கொள்ள ஆசைப்படுவார்கள். இவர்கள் பிறருக்கு உதவும் குணம் கொண்டவர்கள். ஆனால், இவர்களின் மனநிலை சந்திரனைப் போலவே அடிக்கடி மாறக்கூடியதாக இருக்கும்.",
+        "strengths": "இவர்களின் மிகப்பெரிய பலம் இவர்களின் அன்பு மற்றும் அரவணைக்கும் குணம். யாரிடமும் எளிதில் பழகிவிடுவார்கள். இவர்களின் உள்ளுணர்வு (Intuition) மிக வலுவாக இருக்கும், இது இவர்களை ஆபத்துக்களில் இருந்து காப்பாற்றும். விடாமுயற்சி மற்றும் பொறுமை இவர்களின் சிறப்பம்சங்கள். பழைய நினைவுகளைப் போற்றிப் பாதுகாப்பதில் இவர்களுக்கு நிகர் இவர்களே. மற்றவர்களுக்குத் தாயுள்ளத்தோடு உதவுவார்கள்.",
+        "weaknesses": "அதிகப்படியான உணர்ச்சிவசப்படுவது இவர்களின் முக்கிய பலவீனம். சிறிய விஷயங்களையும் மனதில் போட்டு குழப்பிக் கொள்வார்கள். பழைய கசப்பான சம்பவங்களை மறக்க முடியாமல் தவிப்பார்கள். சில நேரங்களில் அதிகப்படியான சந்தேக குணம் இவர்களுக்கு வரக்கூடும். மற்றவர்களைச் சார்ந்தே இருக்க விரும்புவது இவர்களின் முன்னேற்றத்தைத் தடுக்கலாம். ஒரு விஷயத்தில் இருந்து வெளிவர இவர்களுக்கு அதிக காலம் எடுக்கும்.",
+        "career": "சந்திரனின் ஆதிக்கம் இருப்பதால், இவர்கள் மருத்துவம், செவிலியர் பணி, மனநல ஆலோசனை மற்றும் கல்வித் துறைகளில் சிறந்து விளங்குவார்கள். பால் மற்றும் திரவப் பொருட்கள் தொடர்பான வியாபாரம், உணவகம், மற்றும் ஏற்றுமதி இறக்குமதி தொழிலில் இவர்கள் வெற்றி பெறுவார்கள். கலை மற்றும் இலக்கியத் துறையிலும் இவர்களுக்கு நல்ல வாய்ப்புகள் அமையும். அரசுப் பணிகளிலும் இவர்கள் நல்ல நிலையை அடையலாம்.",
+        "marriage": "திருமண வாழ்க்கையில் கடக ராசியினர் மிகவும் விசுவாசமானவர்களாக இருப்பார்கள். தன் குடும்பமே உலகம் என்று வாழ்வார்கள். இவர்களுக்கு விருச்சிகம் (Scorpio) மற்றும் மீனம் (Pisces) ராசியினருடன் மிகச் சிறந்த பொருத்தம் அமையும். இந்த ராசியினரும் நீர் தத்துவத்தைக் கொண்டிருப்பதால், ஒருவருக்கொருவர் ஆழமான அன்பைப் பகிர்ந்து கொள்வார்கள். ரிஷபம் மற்றும் கன்னி ராசியினருடனும் இவர்களுக்கு நல்ல இணக்கம் இருக்கும்.",
+        "luckyColor": "வெள்ளை, வெள்ளி மற்றும் இளநீலம்",
+        "luckyNumber": "2, 7, 11",
+        "luckyStone": "முத்து (Pearl)"
+      }
+    },
+    {
+      "id": "simmam-rasi",
+      "englishName": "Leo",
+      "tamilName": "சிம்மம்",
+      "englishSummary": "Self-confident, majestic, and generous with a strong presence.",
+      "tamilSummary": "தன்னம்பிக்கை, கம்பீரம் மற்றும் தாராள மனப்பான்மை கொண்ட ஆளுமைத் திறன் மிக்கவர்கள்.",
+      "english": {
+        "intro": "Simmam Rasi, known as Leo in Western astrology, is the fifth sign of the zodiac. Represented by the Lion and ruled by the Sun (Suriyan), it is a Fire sign that exudes authority, warmth, and vitality. People born under this sign are often the center of attention and possess a regal aura.",
+        "personality": "Individuals born in Simmam Rasi are natural leaders with a strong sense of self. They are charismatic, confident, and highly ambitious. Like the lion, they are protective of their tribe and have a big heart. They love to be appreciated and praised for their efforts. Their personality is characterized by courage and a \"never-give-up\" attitude. They are often very generous and enjoy helping others achieve their potential.",
+        "strengths": "The primary strength of Simmam is their unwavering confidence and leadership ability. They are highly motivated and can inspire others to work toward a common goal. Their loyalty is legendary; once you are in their inner circle, they will protect you fiercely. They are also very creative and have a flair for the dramatic, making them excellent entertainers. Their honesty and straightforwardness are also key traits.",
+        "weaknesses": "On the downside, Simmam natives can sometimes be overly proud or egoistic. Their need for attention can lead to attention-seeking behavior if not balanced. They can be quite stubborn and find it difficult to accept criticism or follow others' instructions. At times, their authoritative nature can come across as bossy or patronizing. They may also struggle with laziness if they don't feel passionate about what they are doing.",
+        "career": "Simmam individuals thrive in careers where they can take charge and be in the spotlight. They make excellent managers, CEOs, and politicians. Their creative talents often lead them to success in acting, directing, or any form of public performance. They also excel in education, public speaking, and law. Any profession that allows them to lead and be recognized for their excellence is a good fit for them.",
+        "marriage": "In marriage, Simmam Rasi people are extremely romantic and devoted. They seek a partner who is equally passionate and can respect their need for leadership. They are most compatible with Mesham (Aries) and Dhanusu (Sagittarius), as these fellow Fire signs can match their energy. They also share a good bond with Mithunam (Gemini) and Thulam (Libra), who appreciate their warmth and charisma.",
+        "luckyColor": "Gold, Orange, and Yellow",
+        "luckyNumber": "1, 4, and 9",
+        "luckyStone": "Ruby (Manikkam)"
+      },
+      "tamil": {
+        "intro": "ஜோதிட மண்டலத்தின் ஐந்தாவது ராசி சிம்மம் ஆகும். இது நெருப்புத் தத்துவத்தைக் கொண்டது. கிரகங்களின் அரசனான சூரிய பகவானை அதிபதியாகக் கொண்ட இந்த ராசியில் பிறந்தவர்கள், கம்பீரமான தோற்றமும் ஆளுமைத் திறனும் மிக்கவர்கள். சிங்கம் சின்னத்தைக் கொண்ட இவர்கள், எதிலும் தனித்து விளங்க ஆசைப்படுவார்கள்.",
+        "personality": "சிம்ம ராசியினர் இயற்கையிலேயே மற்றவர்களை ஈர்க்கும் சக்தி கொண்டவர்கள். இவர்களிடம் ஒருவிதமான ராஜ கலை இருக்கும். எதற்கும் அஞ்சாத நெஞ்சம் கொண்ட இவர்கள், மற்றவர்களுக்குப் பாதுகாப்பு அளிப்பதில் வல்லவர்கள். இவர்கள் பாராட்டுக்களை விரும்புவார்கள். இவர்களின் உள்ளம் மிகவும் மென்மையானது மற்றும் தாராளமானது. மற்றவர்களுக்கு உதவும்போது அவர்கள் ஒருபோதும் தயங்க மாட்டார்கள். ஒரு செயலைத் தொடங்கினால் அதில் வெற்றி பெறும் வரை ஓயமாட்டார்கள்.",
+        "strengths": "இவர்களின் மிகப்பெரிய பலம் இவர்களின் தன்னம்பிக்கை மற்றும் தலைமைப் பண்பு. ஒரு கூட்டத்தில் இவர்களின் குரல் ஓங்கி ஒலிக்கும். நேர்மை மற்றும் விசுவாசம் இவர்களின் முக்கிய அடையாளங்கள். நண்பர்களுக்காக எதையும் செய்யத் துணிவார்கள். எபேர்ப்பட்ட சவாலையும் துணிச்சலுடன் எதிர்கொள்வார்கள். இவர்களின் படைப்பாற்றல் மற்றும் எதையும் புதுமையாகச் செய்யும் குணம் இவர்களை முன்னிலைப்படுத்தும்.",
+        "weaknesses": "அதிகப்படியான அகங்காரம் (Ego) இவர்களின் முக்கிய பலவீனமாக அமையலாம். மற்றவர்கள் தங்களைப் புகழ வேண்டும் என்ற எதிர்பார்ப்பு சில நேரங்களில் ஏமாற்றத்தைத் தரும். பிடிவாத குணம் இவர்களிடம் அதிகம் இருக்கும். மற்றவர்களின் ஆலோசனைகளைக் கேட்பதில் இவர்களுக்குத் தயக்கம் இருக்கலாம். சில நேரங்களில் அதிகப்படியான அதிகாரம் செலுத்துவது மற்றவர்களுக்குத் தொந்தரவாக அமையலாம். தோல்விகளை இவர்கங்களால் எளிதில் ஜீரணிக்க முடியாது.",
+        "career": "சூரியனின் ஆதிக்கம் இருப்பதால், இவர்கள் அரசுப் பணிகள், அரசியல் மற்றும் மேலாண்மைத் துறைகளில் சிறந்து விளங்குவார்கள். சிறந்த அதிகாரிகளாகவும், மருத்துவர்களாகவும், வழக்கறிஞர்களாகவும் திகழ்வார்கள். கலைத் துறை, நடிப்பு மற்றும் மேடைப் பேச்சிலும் இவர்கள் கொடிகட்டிப் பறப்பார்கள். சொந்தமாகத் தொழில் தொடங்குவதில் இவர்கள் மிகுந்த ஆர்வம் காட்டுவார்கள். ஒரு நிறுவனத்தைத் தலைமை தாங்கி நடத்துவதில் இவர்களுக்கு நிகர் இவர்களே.",
+        "marriage": "திருமண வாழ்க்கையில் சிம்ம ராசியினர் மிகவும் அன்பானவர்களாகவும் உணர்ச்சிமிக்கவர்களாகவும் இருப்பார்கள். தன் துணையை மிகவும் பெருமையாகக் கருதுவார்கள். இவர்களுக்கு மேஷம் (Aries) மற்றும் தனுசு (Sagittarius) ராசியினருடன் மிகச் சிறந்த பொருத்தம் அமையும். இந்த ராசியினரும் நெருப்புத் தத்துவத்தைக் கொண்டிருப்பதால், வாழ்க்கை மிகவும் உற்சாகமாக இருக்கும். மிதுனம் மற்றும் துலாம் ராசியினருடனும் இவர்களுக்கு நல்ல அன்யோன்யம் இருக்கும்.",
+        "luckyColor": "தங்கம், ஆரஞ்சு மற்றும் சிவப்பு",
+        "luckyNumber": "1, 4, 9",
+        "luckyStone": "மாணிக்கம் (Ruby)"
+      }
+    },
+    {
+      "id": "kanni-rasi",
+      "englishName": "Virgo",
+      "tamilName": "கன்னி",
+      "englishSummary": "Calm, hard-working, and disciplined with a keen eye for detail.",
+      "tamilSummary": "அமைதியான, கடின உழைப்பு மற்றும் ஒழுக்கம் கொண்ட நுணுக்கமான அறிவுடையவர்கள்.",
+      "english": {
+        "intro": "Kanni Rasi, known as Virgo in Western astrology, is the sixth sign of the zodiac. Represented by the Maiden and ruled by Mercury (Budhan), it is an Earth sign. Kanni natives are known for their analytical minds, attention to detail, and practical approach to life.",
+        "personality": "Individuals born in Kanni Rasi are highly organized and methodical. They possess a sharp intellect and a keen eye for detail that others often miss. They are natural problem solvers who prefer logic over emotion. Their personality is characterized by modesty, reliability, and a strong sense of duty. They are often seen as the \"perfectionists\" of the zodiac, always striving to improve themselves and their surroundings.",
+        "strengths": "The primary strength of Kanni is their meticulousness. They are incredibly hardworking and take great pride in their work. Their analytical skills allow them to break down complex problems into manageable parts. They are also very helpful and derive great satisfaction from being of service to others. Their loyalty and practical wisdom make them excellent advisors and trustworthy friends.",
+        "weaknesses": "On the flip side, their perfectionism can lead to over-criticism, both of themselves and others. Kanni natives can be prone to worrying and overthinking, which can lead to stress. They may get so bogged down in the details that they lose sight of the bigger picture. Their modest nature can sometimes turn into shyness or a lack of self-confidence. They may also find it difficult to express their emotions openly.",
+        "career": "Kanni individuals excel in careers that require precision, analysis, and organization. They make excellent accountants, auditors, researchers, and data analysts. Their helpful nature and interest in well-being often lead them to careers in medicine, nursing, or nutrition. They also thrive in editing, writing, and administrative roles where their attention to detail is a significant asset. They prefer stable and structured work environments.",
+        "marriage": "In marriage, Kanni Rasi people are devoted and practical. They show their love through actions rather than grand gestures. They seek a partner who is organized and shares their values of hard work and hygiene. They are most compatible with fellow Earth signs like Rishabam (Taurus) and Magaram (Capricorn). They also share a good bond with Kadagam (Cancer) and Viruchigam (Scorpio) due to their emotional depth and loyalty.",
+        "luckyColor": "Green, White, and Yellow",
+        "luckyNumber": "5, 14, and 23",
+        "luckyStone": "Emerald (Panna)"
+      },
+      "tamil": {
+        "intro": "ஜோதிட மண்டலத்தின் ஆறாவது ராசி கன்னி ஆகும். இது நிலத் தத்துவத்தைக் கொண்டது. புதன் பகவானை அதிபதியாகக் கொண்ட இந்த ராசியில் பிறந்தவர்கள், அறிவாற்றல் சிந்தனையும் நுணுக்கமான வேலைப்பாடுகளும் கொண்டவர்கள். கன்னிப் பெண் சின்னத்தைக் கொண்ட இவர்கள், எதிலும் தூய்மையையும் நேர்த்தியையும் எதிர்பார்ப்பார்கள்.",
+        "personality": "கன்னி ராசியினர் மிகவும் திட்டமிட்டுச் செயல்படுபவர்கள். எதையும் மேலோட்டமாகப் பார்க்காமல், அதன் ஆழம் வரை சென்று ஆராய்வார்கள். இவர்களிடம் ஒருவிதமான அடக்கம் இருக்கும். இவர்கள் வீணாகப் பேசுவதை விட, செயலில் காட்டுவதையே விரும்புவார்கள். இவர்களின் அறிவுத்திறன் மிகக் கூர்மையாக இருக்கும். மற்றவர்களின் குறைகளை எளிதில் கண்டறியும் திறன் இவர்களிடம் உண்டு. இவர்கள் எப்போதும் எதையாவது படித்துக்கொண்டோ அல்லது கற்றுக்கொண்டோ இருப்பார்கள்.",
+        "strengths": "இவர்களின் மிகப்பெரிய பலம் இவர்களின் பகுத்தறிவு மற்றும் கடின உழைப்பு. எபேர்ப்பட்ட சிக்கலான வேலையையும் முறையாகச் செய்து முடிப்பார்கள். நம்பகத்தன்மை இவர்களின் மற்றொரு சிறப்பு. மற்றவர்களுக்கு உதவுவதில் இவர்களுக்குத் தனி ஆர்வம் உண்டு. இவர்களின் ஞாபக சக்தி மிக நன்றாக இருக்கும். எதையும் சீராக அடுக்கி வைப்பதிலும், நிர்வாகம் செய்வதிலும் இவர்கள் வல்லவர்கள். இவர்களின் நடைமுறைச் சிந்தனை வெற்றிக்கு வழிவகுக்கும்.",
+        "weaknesses": "அதிகப்படியான விமர்சனக் குணம் இவர்களின் முக்கிய பலவீனமாக அமையலாம். தன்னைத் தானே குறைத்து மதிப்பிடுவதும், மற்றவர்களைக் குறை கூறுவதும் இவர்களுக்குத் தேவையற்ற மன அழுத்தத்தைத் தரும். சிறிய விஷயங்களுக்குக்கூட அதிகம் கவலைப்படுவார்கள். எதிலும் நூறு சதவீதம் சரியாக இருக்க வேண்டும் என்ற எதிர்பார்ப்பு இவர்களைச் சோர்வடையச் செய்யலாம். இவர்களால் உணர்ச்சிகளை வெளிப்படையாகப் பகிர முடியாது.",
+        "career": "புதனின் ஆதிக்கம் இருப்பதால், இவர்கள் கணக்கியல் (Accounting), தணிக்கை (Auditing), மற்றும் ஆராய்ச்சித் துறைகளில் சிறந்து விளங்குவார்கள். சிறந்த ஆசிரியர்களாகவும், எழுத்தாளர்களாகவும், மருத்துவர்களாகவும் திகழ்வார்கள். தகவல் தொழில்நுட்பம், புள்ளியியல் மற்றும் நிர்வாகப் பணிகளில் இவர்கள் கொடிகட்டிப் பறப்பார்கள். எடிட்டிங் மற்றும் வடிவமைப்புத் துறையிலும் இவர்களுக்கு நல்ல வாய்ப்புகள் உண்டு.",
+        "marriage": "திருமண வாழ்க்கையில் கன்னி ராசியினர் மிகவும் உண்மையானவர்களாகவும் கடமை உணர்வு மிக்கவர்களாகவும் இருப்பார்கள். தன் துணையை நன்கு கவனித்துக் கொள்வார்கள். இவர்களுக்கு ரிஷபம் (Taurus) மற்றும் மகரம் (Capricorn) ராசியினருடன் மிகச் சிறந்த பொருத்தம் அமையும். இந்த ராசியினரும் நிலத் தத்துவத்தைக் கொண்டிருப்பதால், வாழ்க்கை சீராகவும் அமைதியாகவும் இருக்கும். கடகம் மற்றும் விருச்சிக ராசியினருடனும் இவர்களுக்கு நல்ல இணக்கம் இருக்கும்.",
+        "luckyColor": "பச்சை, வெள்ளை மற்றும் மஞ்சள்",
+        "luckyNumber": "5, 14, 23",
+        "luckyStone": "மரகதம் (Emerald)"
+      }
+    },
+    {
+      "id": "thulam-rasi",
+      "englishName": "Libra",
+      "tamilName": "துலாம்",
+      "englishSummary": "Balanced, fair, and elegant in nature, seeking harmony in everything.",
+      "tamilSummary": "சமநிலை, நியாயம் மற்றும் நேர்த்தியான சுபாவம் கொண்ட அமைதியை விரும்புபவர்கள்.",
+      "english": {
+        "intro": "Thulam Rasi, known as Libra in Western astrology, is the seventh sign of the zodiac. It is represented by the Scales, symbolizing balance, justice, and harmony. Ruled by Venus (Sukran), the planet of love and beauty, Thulam is an Air sign. Its natives are known for their charm, diplomatic nature, and desire for peace.",
+        "personality": "Individuals born in Thulam Rasi are the peacemakers of the zodiac. They possess a natural charm that makes them very popular in social circles. They have a strong sense of justice and always try to see both sides of a situation. Their personality is characterized by elegance, politeness, and a refined taste. They dislike conflict and will go to great lengths to avoid it. They value partnerships and are often at their best when they are collaborating with others.",
+        "strengths": "The primary strength of Thulam is their diplomatic skill. They are experts at resolving conflicts and bringing people together. Their sense of fairness and balance makes them highly objective. They are also very sociable and possess excellent communication skills. Their appreciation for beauty and art often gives them a creative edge. Their kindness and willingness to help others make them cherished companions.",
+        "weaknesses": "The desire to please everyone can lead to indecisiveness, which is a significant weakness for Thulam natives. They often struggle to make choices because they weigh all options so carefully. Their aversion to conflict can sometimes lead to them being passive or avoiding necessary confrontations. At times, they may appear superficial or overly concerned with outward appearances. They may also find it difficult to say \"no\" to people.",
+        "career": "Thulam individuals excel in careers that require negotiation, mediation, and a sense of aesthetics. They make excellent lawyers, judges, diplomats, and human resources professionals. Their creative talents often lead them to success in interior design, fashion, photography, or art. Their social skills also make them very effective in public relations, sales, and counseling. They prefer a work environment that is harmonious and visually pleasing.",
+        "marriage": "In marriage, Thulam Rasi people are extremely romantic and committed. They view marriage as a true partnership and strive for balance and harmony in their relationship. They are most compatible with fellow Air signs like Mithunam (Gemini) and Kumbam (Aquarius), who share their intellectual interests. They also share a good bond with Simmam (Leo) and Dhanusu (Sagittarius) due to their shared love for social life and excitement.",
+        "luckyColor": "White, Light Blue, and Pink",
+        "luckyNumber": "6, 15, and 24",
+        "luckyStone": "Diamond (Heera)"
+      },
+      "tamil": {
+        "intro": "ஜோதிட மண்டலத்தின் ஏழாவது ராசி துலாம் ஆகும். இது காற்றுத் தத்துவத்தைக் கொண்டது. சுக்கிர பகவானை அதிபதியாகக் கொண்ட இந்த ராசியில் பிறந்தவர்கள், சமநிலை மற்றும் நியாயம் தவறாத குணம் கொண்டவர்கள். தராசு சின்னத்தைக் கொண்ட இவர்கள், எதிலும் நடுநிலையாகச் செயல்பட விரும்புவார்கள்.",
+        "personality": "துலாம் ராசியினர் மிகவும் இனிமையான சுபாவம் கொண்டவர்கள். மற்றவர்களிடம் அன்பாகவும் பண்பாகவும் பழகுவார்கள். இவர்களிடம் ஒருவிதமான ஈர்ப்பு சக்தி இருக்கும். எதையும் சீர்தூக்கிப் பார்த்து முடிவெடுப்பதில் இவர்கள் வல்லவர்கள். இவர்கள் எப்போதும் அமைதியையும் சமாதானத்தையும் விரும்புவார்கள். கலை உணர்வு மிக்கவர்கள் என்பதால், அழகான சூழலில் இருப்பதையே இவர்கள் விரும்புவார்கள். சமூகத்தில் நல்ல மதிப்பைப் பெற்றிருப்பார்கள்.",
+        "strengths": "இவர்களின் மிகப்பெரிய பலம் இவர்களின் ராஜதந்திரம் மற்றும் சமாதானம் செய்யும் குணம். எப்பேர்ப்பட்ட சண்டையையும் தனது பேச்சால் தீர்த்து வைப்பார்கள். நேர்மை மற்றும் நீதி இவர்களின் இரு கண்கள். சமூகத்தில் அனைவரிடமும் இணக்கமாகப் பழகுவார்கள். இவர்களின் பேச்சுத் திறன் மற்றும் மற்றவர்களைப் புரிந்து கொள்ளும் ஆற்றல் மிகச் சிறப்பாக இருக்கும். கலை மற்றும் வடிவமைப்புத் துறையில் இவர்களுக்குத் தனித்திறமை உண்டு.",
+        "weaknesses": "மன உறுதி இல்லாமை இவர்களின் முக்கிய பலவீனமாகப் பார்க்கப்படுகிறது. ஒரு முடிவை எடுப்பதற்கு அதிக நேரம் எடுத்துக் கொள்வார்கள். மற்றவர்களைத் திருப்திப்படுத்த வேண்டும் என்ற எண்ணம் இவர்களைச் சில நேரங்களில் தவறான முடிவெடுக்கத் தூண்டும். மோதல்களைத் தவிர்ப்பதற்காக உண்மைகளை மறைக்கக் கூடும். எதிலும் சோம்பேறித்தனம் அவ்வப்போது எட்டிப் பார்க்கும். மற்றவர்களின் ஆதிக்கத்திற்கு எளிதில் அடிபணிய வாய்ப்புண்டு.",
+        "career": "சுக்கிரனின் ஆதிக்கம் இருப்பதால், இவர்கள் கலை, இசை, சினிமா, ஆடை வடிவமைப்பு மற்றும் அழகுத் துறைகளில் சிறந்து விளங்குவார்கள். சிறந்த வழக்கறிஞர்களாகவும், நீதிபதிகளாகவும், தூதர்களாகவும் திகழ்வார்கள். மக்கள் தொடர்பு (PR), விற்பனை மற்றும் சந்தைப்படுத்தல் துறைகளிலும் இவர்கள் கொடிகட்டிப் பறப்பார்கள். அலங்காரப் பொருட்கள் மற்றும் ஆடம்பரப் பொருட்கள் தொடர்பான வியாபாரத்திலும் இவர்களுக்கு நல்ல லாபம் கிடைக்கும்.",
+        "marriage": "திருமண வாழ்க்கையில் துலாம் ராசியினர் மிகவும் ரொமாண்டிக் ஆனவர்கள். தன் துணையுடன் சரிசமமான உறவைப் பேணுவார்கள். இவர்களுக்கு மிதுனம் (Gemini) மற்றும் கும்பம் (Aquarius) ராசியினருடன் மிகச் சிறந்த பொருத்தம் அமையும். இந்த ராசியினருடன் இவர்களால் ஆழமான கருத்துக்களைப் பகிர்ந்து கொள்ள முடியும். சிம்மம் மற்றும் தனுசு ராசியினருடனும் இவர்களுக்கு நல்ல அன்யோன்யம் இருக்கும்.",
+        "luckyColor": "வெள்ளை, வெளிர் நீலம் மற்றும் இளஞ்சிவப்பு",
+        "luckyNumber": "6, 15, 24",
+        "luckyStone": "வைரம் (Diamond)"
+      }
+    },
+    {
+      "id": "viruchigam-rasi",
+      "englishName": "Scorpio",
+      "tamilName": "விருச்சிகம்",
+      "englishSummary": "Intense, secretive, and strong-willed with deep emotional depth.",
+      "tamilSummary": "தீவிரமான, ரகசியமான மற்றும் உறுதியான மனம் கொண்ட ஆழமான உணர்வுடையவர்கள்.",
+      "english": {
+        "intro": "Viruchigam Rasi, known as Scorpio in Western astrology, is the eighth sign of the zodiac. It is represented by the Scorpion and is ruled by Mars (Sevvai) and traditionally associated with intense energy. As a Water sign, Viruchigam natives are deeply emotional, mysterious, and possess incredible willpower.",
+        "personality": "Individuals born in Viruchigam Rasi are among the most misunderstood signs of the zodiac due to their intense and private nature. They possess a powerful magnetism and a keen sense of intuition. Their personality is characterized by depth, passion, and a \"never-say-die\" attitude. They are highly observant and can see through deception easily. They value truth and loyalty above all else and can be incredibly dedicated to their goals and loved ones.",
+        "strengths": "The primary strength of Viruchigam is their unwavering determination. Once they set their sights on something, they will pursue it with intense focus and resilience. They are incredibly resourceful and brave, often thriving in challenging situations. Their loyalty is unmatched; they are the kind of friends who will stand by you through the darkest times. Their intuitive and analytical mind makes them excellent at uncovering hidden truths.",
+        "weaknesses": "On the flip side, their intense emotions can lead to jealousy and possessiveness. Viruchigam natives can be prone to holding grudges and finding it difficult to forgive those who have wronged them. Their secretive nature can sometimes lead to trust issues in relationships. They can be quite controlling and may struggle with power dynamics. At times, their \"all or nothing\" approach to life can be exhausting for themselves and others.",
+        "career": "Viruchigam individuals excel in careers that involve investigation, research, and transformation. They make excellent detectives, surgeons, researchers, and psychologists. Their connection to the mysterious often leads them to success in occult sciences or complex financial fields like auditing and insurance. Their strategic mind also makes them formidable in business and law. They prefer work that is meaningful and allows them to dive deep into subjects.",
+        "marriage": "In marriage, Viruchigam Rasi people are extremely passionate and seek a deep emotional and spiritual connection. They are fiercely protective of their spouse and family. They are most compatible with fellow Water signs like Kadagam (Cancer) and Meenam (Pisces), who understand their emotional depth. They also share a strong bond with Earth signs like Kanni (Virgo) and Magaram (Capricorn), who provide the stability they need.",
+        "luckyColor": "Dark Red, Maroon, and Black",
+        "luckyNumber": "9, 18, and 27",
+        "luckyStone": "Red Coral (Moonga)"
+      },
+      "tamil": {
+        "intro": "ஜோதிட மண்டலத்தின் எட்டாவது ராசி விருச்சிகம் ஆகும். இது நீர் தத்துவத்தைக் கொண்டது. செவ்வாய் பகவானை அதிபதியாகக் கொண்ட இந்த ராசியில் பிறந்தவர்கள், உறுதியான மனமும் தீவிரமான செயல்பாடுகளும் கொண்டவர்கள். தேள் சின்னத்தைக் கொண்ட இவர்கள், எதற்கும் அஞ்சாதவர்கள் மற்றும் மிகவும் மர்மமான குணம் கொண்டவர்கள்.",
+        "personality": "விருச்சிக ராசியினர் மிகவும் ஆழமான சிந்தனை கொண்டவர்கள். இவர்களிடம் ஒருவிதமான காந்த ஈர்ப்பு இருக்கும். எதையும் சீக்கிரமாக நம்பிவிட மாட்டார்கள். உண்மையை அறிவதில் இவர்கள் மிகுந்த ஆர்வம் காட்டுவார்கள். இவர்கள் மிகவும் ரகசியமானவர்கள், தன் மனதிலுள்ள விஷயங்களை எளிதில் யாரிடமும் பகிர்ந்து கொள்ள மாட்டார்கள். இவர்களின் கோபமும் அன்பும் மிகவும் தீவிரமாக இருக்கும். ஒருமுறை நண்பர்களாகிவிட்டால் அவர்கள் வாழ்நாள் முழுவதும் விசுவாசமாக இருப்பார்கள்.",
+        "strengths": "இவர்களின் மிகப்பெரிய பலம் இவர்களின் மன உறுதி மற்றும் விடாமுயற்சி. எபேர்ப்பட்ட சவாலையும் எதிர்கொண்டு வெற்றி பெறும் வரை ஓயமாட்டார்கள். இவர்களின் உள்ளுணர்வு (Intuition) மிக வலுவாக இருக்கும், இதனால் மற்றவர்களின் எண்ணங்களை எளிதில் கணிப்பார்கள். நம்பகத்தன்மை மற்றும் தைரியம் இவர்களின் சிறப்பு. கடினமான சூழலில் மற்றவர்களைக் காப்பாற்றும் துணிச்சல் இவர்களுக்கு உண்டு. இவர்கள் மிகவும் புத்திசாலிகள்.",
+        "weaknesses": "பழிவாங்கும் குணம் இவர்களின் முக்கிய பலவீனமாகப் பார்க்கப்படுகிறது. யாராவது தங்களுக்குத் தீமை செய்தால் அதை எளிதில் மறக்க மாட்டார்கள். அதிகப்படியான பொறாமை மற்றும் சந்தேக குணம் இவர்களுக்குத் தேவையற்ற மன உளைச்சலைத் தரும். எதிலும் பிடிவாதமாக இருப்பார்கள். தனது ரகசியங்களை மற்றவர்களிடம் சொல்லாதது போலவே, மற்றவர்கள் மீதும் அதிக அதிகாரம் செலுத்த விரும்புவார்கள். இதனால் உறவுகளில் சிக்கல் வரலாம்.",
+        "career": "செவ்வாயின் ஆதிக்கம் இருப்பதால், இவர்கள் மருத்துவம் (குறிப்பாக அறுவை சிகிச்சை), ராணுவம், காவல் துறை மற்றும் துப்பறியும் துறைகளில் சிறந்து விளங்குவார்கள். சிறந்த Researchers ஆகவும், வேதியியல் வல்லுநர்களாகவும் திகழ்வார்கள். மறைபொருள் ஆராய்ச்சி (Occult Science), உளவியல் மற்றும் நிதி மேலாண்மைத் துறைகளிலும் இவர்கள் கொடிகட்டிப் பறப்பார்கள். சவால் நிறைந்த எந்த வேலையையும் இவர்கள் விரும்பிச் செய்வார்கள்.",
+        "marriage": "திருமண வாழ்க்கையில் விருச்சிக ராசியினர் மிகவும் உணர்ச்சிப்பூர்வமானவர்களாக இருப்பார்கள். தன் துணேயிடம் ஆழமான அன்பையும் விசுவாசத்தையும் எதிர்பார்ப்பார்கள். இவர்களுக்கு கடகம் (Cancer) மற்றும் மீனம் (Pisces) ராசியினருடன் மிகச் சிறந்த பொருத்தம் அமையும். இந்த ராசியினரும் நீர் தத்துவத்தைக் கொண்டிருப்பதால், ஒருவரையொருவர் நன்கு புரிந்து கொள்வார்கள். கன்னி மற்றும் மகர ராசியினருடனும் இவர்களுக்கு நல்ல இணக்கம் இருக்கும்.",
+        "luckyColor": "சிவப்பு, கரும் சிவப்பு மற்றும் மஞ்சள்",
+        "luckyNumber": "9, 18, 27",
+        "luckyStone": "பவளம் (Coral)"
+      }
+    },
+    {
+      "id": "dhanusu-rasi",
+      "englishName": "Sagittarius",
+      "tamilName": "தனுசு",
+      "englishSummary": "Honest, enthusiastic, and seekers of knowledge and adventure.",
+      "tamilSummary": "நேர்மை, உற்சாகம் மற்றும் அறிவு மற்றும் சாகசத்தைத் தேடுபவர்கள்.",
+      "english": {
+        "intro": "Dhanusu Rasi, known as Sagittarius in Western astrology, is the ninth sign of the zodiac. It is represented by the Archer (a Centaur with a bow) and is ruled by Jupiter (Guru), the planet of wisdom, expansion, and luck. As a Fire sign, Dhanusu natives are characterized by their boundless energy, optimism, and quest for knowledge.",
+        "personality": "Individuals born in Dhanusu Rasi are the eternal travelers of the zodiac. They possess an adventurous spirit and a deep desire to explore both the physical world and the realms of philosophy. Their personality is characterized by honesty, straightforwardness, and a great sense of humor. They value freedom above all else and cannot be confined by routine. They are natural truth-seekers who always look at the brighter side of life.",
+        "strengths": "The primary strength of Dhanusu is their incredible optimism. They have an unshakable belief that things will work out for the best. Their honesty and integrity make them very trustworthy companions. They are intellectually curious and always willing to learn. Their generous and broad-minded nature allows them to connect with people from all walks of life. Their enthusiasm is infectious, often inspiring those around them.",
+        "weaknesses": "On the downside, their blunt honesty can sometimes be perceived as tactlessness or rudeness. Dhanusu natives can be prone to over-promising and under-delivering because they are so optimistic about what they can achieve. Their restlessness can make it difficult for them to commit to long-term projects or relationships. They may also struggle with patience and can be quite impulsive in their actions.",
+        "career": "Dhanusu individuals excel in careers that involve travel, higher education, and philosophy. They make excellent teachers, professors, travel guides, and journalists. Their interest in justice and ethics often leads them to success in law or religious studies. Their adventurous nature also makes them good at entrepreneurship and sales. They prefer work that offers variety and the opportunity to grow and learn.",
+        "marriage": "In marriage, Dhanusu Rasi people seek a partner who is also a companion and fellow explorer. They value intellectual stimulation and need a spouse who respects their need for freedom. They are most compatible with fellow Fire signs like Mesham (Aries) and Simmam (Leo), who share their passion for life. They also share a good bond with Air signs like Mithunam (Gemini) and Kumbam (Aquarius).",
+        "luckyColor": "Yellow",
+        "luckyNumber": "3, 12, 21, and 30",
+        "luckyStone": "Yellow Sapphire (Pukhraj)"
+      },
+      "tamil": {
+        "intro": "ஜோதிட மண்டலத்தின் ஒன்பதாவது ராசி தனுசு ஆகும். இது நெருப்புத் தத்துவத்தைக் கொண்டது. குரு பகவானை அதிபதியாகக் கொண்ட இந்த ராசியில் பிறந்தவர்கள், அறிவாற்றல் மற்றும் நேர்மை குணம் கொண்டவர்கள். வில் ஏந்திய மனிதன் மற்றும் குதிரை உடல் கொண்ட சின்னத்தைக் கொண்ட இவர்கள், எப்போதும் ஒரு இலக்கை நோக்கிப் பயணிப்பார்கள்.",
+        "personality": "தனுசு ராசியினர் மிகவும் வெளிப்படையான சுபாவம் கொண்டவர்கள். எதையும் ஒளிவு மறைவின்றிப் பேசுவார்கள். இவர்களுக்குச் சுதந்திரமாக இருப்பதில்தான் மிகுந்த மகிழ்ச்சி. புதிய இடங்களுக்குப் பயணம் செய்வதிலும், புதிய விஷயங்களைக் கற்றுக்கொள்வதில் இவர்களுக்கு ஆர்வம் அதிகம். இவர்கள் எப்போதும் நேர்மறையாகச் சிந்திப்பார்கள். இவர்களின் நகைச்சுவை உணர்வு மற்றவர்களை எளிதில் கவரும். தெய்வ நம்பிக்கை மற்றும் தர்ம சிந்தனை இவர்களிடம் இயல்பாகவே இருக்கும்.",
+        "strengths": "இவர்களின் மிகப்பெரிய பலம் இவர்களின் நம்பிக்கை மற்றும் நேர்மை. எபேர்ப்பட்ட கடினமான சூழலிலும் இவர்கள் மனம் தளர மாட்டார்கள். இவர்களின் அறிவுத்திறன் மற்றும் தொலைநோக்குப் பார்வை மிகச் சிறப்பாக இருக்கும். தாராள மனப்பான்மை கொண்ட இவர்கள், மற்றவர்களுக்கு உதவுவதில் மகிழ்ச்சி காண்பார்கள். இவர்களின் உற்சாகம் மற்றவர்களுக்கும் தொற்றிக்கொள்ளும். எதற்கும் அஞ்சாத துணிச்சல் இவர்களுக்கு உண்டு.",
+        "weaknesses": "அவசரப்பட்டு முடிவெடுப்பது இவர்களின் முக்கிய பலவீனமாகப் பார்க்கப்படுகிறது. நிதானம் குறைவாக இருப்பதால் சில நேரங்களில் சிக்கல்களில் மாட்டிக்கொள்வார்கள். இவர்களின் வெளிப்படையான பேச்சு மற்றவர்களின் மனதை நோகடிக்கக்கூடும். எதிலும் ஒரு வேலையைத் தொடங்கிவிட்டு, அதை முழுமையாக முடிக்காமல் வேறொன்றிற்குத் தாவுவார்கள். பொறுமை இவர்களிடம் சற்று குறைவாகவே இருக்கும். சில நேரங்களில் அதிகப்படியான தன்னம்பிக்கை இவர்களுக்குத் தலைக்கணத்தை ஏற்படுத்தலாம்.",
+        "career": "குருவின் ஆதிக்கம் இருப்பதால், இவர்கள் கல்வி, வங்கி, சட்டம் மற்றும் ஆன்மீகத் துறைகளில் சிறந்து விளங்குவார்கள். சிறந்த ஆசிரியர்களாகவும், ஆலோசகர்களாகவும், நீதிபதிகளாகவும் திகழ்வார்கள். பயணம் சார்ந்த தொழில்கள், சுற்றுலாத் துறை மற்றும் ஏற்றுமதி இறக்குமதியிலும் இவர்கள் கொடிகட்டிப் பறப்பார்கள். எழுத்து மற்றும் பத்திரிகைத்துறையிலும் இவர்களுக்கு நல்ல வருமானம் கிடைக்கும். அரசுப் பணிகளில் உயர் பதவிகளை வகிக்க வாய்ப்பு உண்டு.",
+        "marriage": "திருமண வாழ்க்கையில் தனுசு ராசியினர் ஒரு நல்ல தோழமையை எதிர்பார்ப்பார்கள். தன் சுதந்திரத்திற்கு மதிப்பளிக்கும் துணையை விருபுவார்கள். இவர்களுக்கு மேஷம் (Aries) மற்றும் சிம்மம் (Leo) ராசியினருடன் மிகச் சிறந்த பொருத்தம் அமையும். இந்த ராசியினரும் நெருப்புத் தத்துவத்தைக் கொண்டிருப்பதால், ஒருவருக்கொருவர் புரிந்துகொண்டு உற்சாகமாக வாழ்வார்கள். மிதுனம் மற்றும் கும்ப ராசியினருடனும் இவர்களுக்கு நல்ல அன்யோன்யம் இருக்கும்.",
+        "luckyColor": "மஞ்சள் மற்றும் வெளிர் நீலம்",
+        "luckyNumber": "3, 12, 21, 30",
+        "luckyStone": "கனகபுஷ்பராகம் (Yellow Sapphire)"
+      }
+    },
+    {
+      "id": "magaram-rasi",
+      "englishName": "Capricorn",
+      "tamilName": "மகரம்",
+      "englishSummary": "Dutiful, patient, and persistent with a focus on long-term goals.",
+      "tamilSummary": "கடமை, பொறுமை மற்றும் விடாமுயற்சி கொண்ட நீண்ட கால இலக்குகளில் கவனம் செலுத்துபவர்கள்.",
+      "english": {
+        "intro": "Magaram Rasi, known as Capricorn in Western astrology, is the tenth sign of the zodiac. It is represented by the Crocodile (or Mountain Goat) and is ruled by Saturn (Sani), the planet of discipline and karma. As an Earth sign, Magaram natives are practical, ambitious, and grounded.",
+        "personality": "Individuals born in Magaram Rasi are the most disciplined and hardworking of the zodiac. They possess a serious demeanor and a strong sense of responsibility. Their personality is characterized by perseverance and a practical approach to life. They are natural planners who look at the long-term consequences of their actions. They value tradition and respect authority, often becoming pillars of stability in their families and workplaces.",
+        "strengths": "The primary strength of Magaram is their unwavering determination. They have the patience to climb the highest mountains to achieve their goals. Their practical nature makes them excellent at managing resources and time. They are highly reliable and can be trusted with significant responsibilities. Their disciplined lifestyle and ability to stay calm under pressure are key to their success.",
+        "weaknesses": "On the downside, their serious nature can sometimes make them appear cold or unemotional. Magaram natives can be prone to pessimism if things don't go according to plan. They can be very stubborn and find it difficult to change their mind once it's set. Their focus on work and goals can sometimes lead to them being taken advantage of by others. They may also be overly critical of themselves and others.",
+        "career": "Magaram individuals excel in careers that require structure, organization, and long-term planning. They make excellent administrators, managers, and government officials. Their practical and financial skills often lead them to success in banking, accounting, and real estate. They also thrive in engineering, architecture, and law. They prefer careers with a clear hierarchy and the potential for steady advancement.",
+        "marriage": "In marriage, Magaram Rasi people are extremely loyal and seek a partner who is equally responsible and stable. They view marriage as a serious commitment and work hard to provide security for their family. They are most compatible with fellow Earth signs like Rishabam (Taurus) and Kanni (Virgo). They also share a good bond with Viruchigam (Scorpio) and Meenam (Pisces) due to their shared values of loyalty and depth.",
+        "luckyColor": "Blue, Black, and Dark Green",
+        "luckyNumber": "8, 17, and 26",
+        "luckyStone": "Blue Sapphire (Neelam)"
+      },
+      "tamil": {
+        "intro": "ஜோதிட மண்டலத்தின் பத்தாவது ராசி மகரம் ஆகும். இது நிலத் தத்துவத்தைக் கொண்டது. நீதிக்காரகன் என்று அழைக்கப்படும் சனி பகவானை அதிபதியாகக் கொண்ட இந்த ராசியில் பிறந்தவர்கள், மிகுந்த உழைப்பாளிகள் மற்றும் கடமை தவறாதவர்கள். முதலை (அல்லது மலை ஆடு) சின்னத்தைக் கொண்ட இவர்கள், எதிலும் நிதானமாகவும் உறுதியாகவும் செயல்படுவார்கள்.",
+        "personality": "மகர ராசியினர் மிகவும் ஒழுக்கமானவர்கள். இவர்களிடம் ஒருவிதமான முதிர்ச்சியும் பொறுமையும் எப்போதும் இருக்கும். எதையும் திட்டமிட்டுச் செய்வதில் இவர்கள் வல்லவர்கள். வீண் ஆரவாரம் இன்றி தனது வேலையில் கண்ணும் கருத்துமாக இருப்பார்கள். இவர்கள் பாரம்பரியத்திற்கு மதிப்பளிப்பவர்கள். இவர்களின் பேச்சு நிதானமாகவும் அர்த்தமுள்ளதாகவும் இருக்கும். எப்பேர்ப்பட்ட கடினமான சூழ்நிலையிலும் நிலைகுலையாமல் செயல்படும் திறன் இவர்களிடம் உண்டு.",
+        "strengths": "இவர்களின் மிகப்பெரிய பலம் இவர்களின் விடாமுயற்சி மற்றும் பொறுமை. ஒரு இலக்கை அடைவதற்காக எவ்வளவு காலம் வேண்டுமானாலும் காத்திருந்து உழைப்பார்கள். இவர்களின் நடைமுறைச் சிந்தனை மற்றும் சிக்கனமான குணம் இவர்களை வாழ்க்கையில் முன்னேற்றும். நம்பகத்தன்மை இவர்களின் முக்கிய அடையாளம். கொடுத்த வேலையைச் சரியாகச் செய்து முடிப்பதில் இவர்களுக்கு நிகர் இவர்களே. மற்றவர்களுக்கு ஒரு சிறந்த வழிகாட்டியாகத் திகழ்வார்கள்.",
+        "weaknesses": "அதிகப்படியான கவலை மற்றும் எதிர்மறைச் சிந்தனை இவர்களின் முக்கிய பலவீனமாக அமையலாம். எதையும் சந்தேகக் கண்ணோடு பார்ப்பது இவர்களுக்குத் தேவையற்ற மன உளைச்சலைத் தரும். இவர்களின் பிடிவாத குணம் சில நேரங்களில் மற்றவர்களுடன் விரிசலை ஏற்படுத்தும். எந்நேரமும் வேலையே கதி என்று இருப்பதால், குடும்பத்தினருடன் செலவிட நேரம் இல்லாமல் போகலாம். உணர்ச்சிகளை வெளிப்படுத்தத் தயங்குவது இவர்களை மற்றவர்களிடம் இருந்து தனிமைப்படுத்தலாம்.",
+        "career": "சனியின் ஆதிக்கம் இருப்பதால், இவர்கள் நிர்வாகம், அரசுப் பணிகள், மற்றும் கட்டுமானம் சார்ந்த துறைகளில் சிறந்து விளங்குவார்கள். சிறந்த மேலாளர்களாகவும், பொறியாளர்களாகவும், கணக்காளர்காளர்களாகவும் திகழ்வார்கள். நிலம் சம்பந்தமான தொழில், சுரங்கம் மற்றும் கனரகத் தொழில்களில் இவர்கள் கொடிகட்டிப் பறப்பார்கள். சட்டம் மற்றும் அரசியல் துறையிலும் இவர்களுக்கு நல்ல வாய்ப்புகள் அமையும். கடின உழைப்பால் இவர்கள் உயர் நிலையை அடைவார்கள்.",
+        "marriage": "திருமண வாழ்க்கையில் மகர ராசியினர் மிகவும் விசுவாசமானவர்களாக இருப்பார்கள். தன் குடும்பத்திற்காக எதையும் தியாகம் செய்வார்கள். இவர்களுக்கு ரிஷபம் (Taurus) மற்றும் கன்னி (Virgo) ராசியினருடன் மிகச் சிறந்த பொருத்தம் அமையும். இந்த ராசியினரும் நிலத் தத்துவத்தைக் கொண்டிருப்பதால், வாழ்க்கை மிகவும் சீராகவும் நிம்மதியாகவும் இருக்கும். விருச்சிகம் மற்றும் மீன ராசியினருடனும் இவர்களுக்கு நல்ல அன்யோன்யம் இருக்கும்.",
+        "luckyColor": "நீலம், கருப்பு மற்றும் கரும் பச்சை",
+        "luckyNumber": "8, 17, 26",
+        "luckyStone": "நீலக்கல் (Blue Sapphire)"
+      }
+    },
+    {
+      "id": "kumbam-rasi",
+      "englishName": "Aquarius",
+      "tamilName": "கும்பம்",
+      "englishSummary": "Innovative, humanitarian, and freedom-loving with unique perspectives.",
+      "tamilSummary": "புதுமையான, மனிதாபிமானமுள்ள மற்றும் தனித்துவமான கண்ணோட்டங்களைக் கொண்ட சுதந்திரத்தை விரும்புபவர்கள்.",
+      "english": {
+        "intro": "Kumbam Rasi, known as Aquarius in Western astrology, is the eleventh sign of the zodiac. It is represented by the Water Bearer (a pot) and is ruled by Saturn (Sani). As an Air sign, Kumbam natives are known for their progressive thinking, intellectual depth, and humanitarian spirit.",
+        "personality": "Individuals born in Kumbam Rasi are the visionaries of the zodiac. They possess a unique and often unconventional personality. They are highly independent and value their freedom above all else. Their personality is characterized by a strong sense of social justice and a desire to make the world a better place. They are intellectually curious and often ahead of their time in their thinking. They can be very friendly but also maintain a certain emotional distance.",
+        "strengths": "The primary strength of Kumbam is their innovative mind. They are excellent at coming up with original ideas and solutions to complex problems. Their humanitarian nature makes them very compassionate toward society's needs. They are highly objective and can analyze situations without being clouded by emotions. Their loyalty to their friends and ideals is unshakeable. They are also very adaptable to new technologies and changes.",
+        "weaknesses": "On the flip side, their independent nature can sometimes make them appear aloof or detached. Kumbam natives can be very unpredictable and may struggle with following traditional rules or routines. Their strong convictions can sometimes turn into stubbornness or an \"I know best\" attitude. They may also find it difficult to express their deeper personal emotions, preferring to focus on intellectual or social issues.",
+        "career": "Kumbam individuals excel in careers that involve innovation, technology, and social service. They make excellent scientists, engineers, IT professionals, and researchers. Their humanitarian spirit often leads them to success in NGOs, social work, and politics. They also thrive in creative fields like writing, astrology, and modern art. They prefer work environments that offer autonomy and the chance to work on progressive projects.",
+        "marriage": "In marriage, Kumbam Rasi people seek a partner who is also a companion and fellow explorer. They value intellectual compatibility and need a spouse who respects their independence. They are most compatible with fellow Air signs like Mithunam (Gemini) and Thulam (Libra). They also share a good bond with Fire signs like Mesham (Aries) and Dhanusu (Sagittarius) due to their shared love for excitement and growth.",
+        "luckyColor": "Blue, Black, and Violet",
+        "luckyNumber": "8, 17, and 26",
+        "luckyStone": "Blue Sapphire (Neelam)"
+      },
+      "tamil": {
+        "intro": "ஜோதிட மண்டலத்தின் பதினோராவது ராசி கும்பம் ஆகும். இது காற்றுத் தத்துவத்தைக் கொண்டது. சனி பகவானை அதிபதியாகக் கொண்ட இந்த ராசியில் பிறந்தவர்கள், புதுமையான சிந்தனையும் மனிதாபிமானமும் கொண்டவர்கள். குடம் (கும்பம்) ஏந்திய மனிதன் சின்னத்தைக் கொண்ட இவர்கள், சமூக முன்னேற்றத்தில் ஆர்வம் காட்டுவார்கள்.",
+        "personality": "கும்ப ராசியினர் மிகவும் தனித்துவமானவர்கள். இவர்களின் சிந்தனை மற்றவர்களை விட மாறுபட்டதாக இருக்கும். இவர்கள் சுதந்திரத்தை மிகவும் விரும்புவார்கள். சமூக நீதி மற்றும் பொது நலத்தில் இவர்களுக்கு அதிக ஈடுபாடு உண்டு. இவர்களின் அறிவுத்திறன் மிகக் கூர்மையாக இருக்கும். ஒரு விஷயத்தை அறிவியல் பூர்வமாக அணுகுவார்கள். இவர்கள் எதற்கும் அஞ்சாமல் தனது கருத்துக்களை வெளிப்படையாகக் கூறுவார்கள்.",
+        "strengths": "இவர்களின் மிகப்பெரிய பலம் இவர்களின் படைப்பாற்றல் மற்றும் முற்போக்கான சிந்தனை. எபேர்ப்பட்ட சிக்கலான பிரச்சினைகளுக்கும் புதிய தீர்வுகளைக் காண்பார்கள். மனிதாபிமானம் இவர்களின் ரத்தத்தில் ஊறிய ஒன்று. மற்றவர்களுக்கு உதவுவதில் இவர்களுக்குத் தனி மகிழ்ச்சி உண்டு. இவர்களின் நட்பு வட்டம் மிகவும் பெரியது. எதையும் விருப்பு வெறுப்பின்றி ஆராயும் குணம் இவர்களுக்கு உண்டு.",
+        "weaknesses": "தனித்து இயங்கும் குணம் சில நேரங்களில் இவர்களை மற்றவர்களிடம் இருந்து பிரித்துக் காட்டும். கும்ப ராசியினர் சில நேரங்களில் பிடிவாதமாகவும், எதற்கும் கட்டுப்படாதவர்களாகவும் இருக்கலாம். இவர்களின் உணர்ச்சிகளை வெளிப்படையாகக் காட்டத் தயங்குவார்கள், இதனால் இவர்கள் மற்றவர்களுக்குப் புரியாத புதிராகத் தெரிவார்கள். மரபு சார்ந்த விஷயங்களை எதிர்க்கும் குணம் இவர்களுக்குச் சில சிக்கல்களை உருவாக்கலாம்.",
+        "career": "சனியின் ஆதிக்கம் இருந்தாலும், காற்றுத் தத்துவத்தால் இவர்கள் அறிவியல், தொழில்நுட்பம் மற்றும் ஆராய்ச்சித் துறைகளில் சிறந்து விளங்குவார்கள். சிறந்த பொறியாளர்களாகவும், கணினி வல்லுநர்கர்களாகவும், சமூக ஆர்வலர்களாகவும் திகழ்வார்கள். ஜோதிடம், நவீன கலை மற்றும் எழுத்துத் துறையிலும் இவர்கள் கொடிகட்டிப் பறப்பார்கள். அரசியலில் புதுமையான மாற்றங்களைக் கொண்டு வருவார்கள். சொந்தமாகத் தொழில் தொடங்குவதில் இவர்கள் வெற்றி பெறுவார்கள்.",
+        "marriage": "திருமண வாழ்க்கையில் கும்ப ராசியினர் தனது துணையை ஒரு சிறந்த நண்பராகக் கருதுவார்கள். அறிவார்ந்த புரிதலை இவர்கள் அதிகம் எதிர்பார்ப்பார்கள். இவர்களுக்கு மிதுனம் (Gemini) மற்றும் துலாம் (Libra) ராசியினருடன் மிகச் சிறந்த பொருத்தம் அமையும். இந்த ராசியினருடன் இவர்களால் ஆழமான கருத்துக்களைப் பகிர்ந்து கொள்ள முடியும். மேஷம் மற்றும் தனுசு ராசியினருடனும் இவர்களுக்கு நல்ல அன்யோன்யம் இருக்கும்.",
+        "luckyColor": "நீலம், கருப்பு மற்றும் ஊதா",
+        "luckyNumber": "8, 17, 26",
+        "luckyStone": "நீலக்கல் (Blue Sapphire)"
+      }
+    },
+    {
+      "id": "meenam-rasi",
+      "englishName": "Pisces",
+      "tamilName": "மீனம்",
+      "englishSummary": "Kind, spiritual, and imaginative with a deep sense of empathy.",
+      "tamilSummary": "அன்பான, ஆன்மீகமான மற்றும் ஆழமான அனுதாபம் கொண்ட கற்பனைத் திறன் மிக்கவர்கள்.",
+      "english": {
+        "intro": "Meenam Rasi, known as Pisces in Western astrology, is the twelfth and final sign of the zodiac. It is represented by two Fish swimming in opposite directions and is ruled by Jupiter (Guru). As a Water sign, Meenam natives are deeply compassionate, imaginative, and spiritually inclined.",
+        "personality": "Individuals born in Meenam Rasi are the dreamers of the zodiac. They possess a sensitive and gentle personality. Their empathy is boundless, and they often feel the emotions of others as their own. Their personality is characterized by kindness, intuition, and a deep connection to the spiritual world. They are often artistic and find joy in creative pursuits. While they are very friendly, they also need time alone to recharge their emotional energy.",
+        "strengths": "The primary strength of Meenam is their immense compassion. They are the first to help someone in need and are excellent listeners. Their intuition is a powerful guide, often helping them navigate life's complexities with a sense of knowing. They are highly creative and possess a rich imagination. Their selfless nature and ability to forgive make them deeply loved by their friends and family. Their adaptability allows them to get along with diverse groups of people.",
+        "weaknesses": "On the downside, their deep sensitivity can sometimes make them overly emotional or prone to escapism. Meenam natives may find it difficult to face reality and may retreat into their dream world when things get tough. They can be very indecisive and may struggle with setting boundaries in their relationships. At times, their selfless nature can lead to them being taken advantage of by others. They may also struggle with mood swings due to their absorption of surrounding energy.",
+        "career": "Meenam individuals excel in careers that involve healing, creativity, and social service. They make excellent doctors, nurses, therapists, and counselors. Their artistic talents often lead them to success in music, painting, poetry, and filmmaking. Their connection to the water often draws them to marine-related fields. They also thrive in spiritual and philosophical roles where they can guide others. They prefer work that is meaningful and allows them to use their imagination.",
+        "marriage": "In marriage, Meenam Rasi people are extremely devoted and romantic. They seek a deep emotional and spiritual connection with their partner. They are most compatible with fellow Water signs like Kadagam (Cancer) and Viruchigam (Scorpio), who understand their emotional depth. They also share a good bond with Earth signs like Rishabam (Taurus) and Magaram (Capricorn), who provide the stability and grounding they need.",
+        "luckyColor": "Yellow, Cream, and Light Green",
+        "luckyNumber": "3, 7, and 9",
+        "luckyStone": "Yellow Sapphire (Pukhraj)"
+      },
+      "tamil": {
+        "intro": "ஜோதிட மண்டலத்தின் கடைசி மற்றும் பன்னிரண்டாவது ராசி மீனம் ஆகும். இது நீர் தத்துவத்தைக் கொண்டது. குரு பகவானை அதிபதியாகக் கொண்ட இந்த ராசியில் பிறந்தவர்கள், பரந்த மனமும் தெய்வீகச் சிந்தனையும் கொண்டவர்கள். இரண்டு மீன்கள் எதிரெதிர் திசையில் நீந்துவது போன்ற சின்னத்தைக் கொண்ட இவர்கள், வாழ்க்கையின் ஆழமான தத்துவங்களை உணர விரும்புவார்கள்.",
+        "personality": "மீன ராசியினர் மிகவும் மென்மையானவர்கள் மற்றும் அமைதியான குணம் கொண்டவர்கள். இவர்களின் கற்பனைத் திறன் மிக அதிகமாக இருக்கும். மற்றவர்கள் மீது அதிக அன்பு காட்டுவார்கள். இவர்களிடம் ஒருவிதமான மாய வசீகரம் இருக்கும். இவர்கள் பெரும்பாலும் கனவு உலகிலேயே சஞ்சரிக்க விரும்புவார்கள். இவர்களின் உள்ளுணர்வு (Intuition) மிகக் கூர்மையாக இருக்கும். மற்றவர்களின் துன்பத்தைக் கண்டு உருகும் தாயுள்ளம் கொண்டவர்கள்.",
+        "strengths": "இவர்களின் மிகப்பெரிய பலம் இவர்களின் இரக்க குணம் மற்றும் பொறுமை. எபேர்ப்பட்ட கடினமான மனிதர்களையும் தனது அன்பால் மாற்றிவிடுவார்கள். இவர்களின் அறிவுத்திறன் மற்றும் ஆன்மீகச் சிந்தனை இவர்களை மற்றவர்களிடம் இருந்து தனித்துக் காட்டும். படைப்பாற்றல் மிக்க இவர்கள், கலைத் துறையில் சாதனை புரிவார்கள். எதையும் விட்டுக்கொடுக்கும் மனப்பான்மை இவர்களின் சிறப்பு. இவர்களின் அமைதியான சுபாவம் மற்றவர்களுக்கு நிம்மதியைத் தரும்.",
+        "weaknesses": "மன உறுதி இல்லாமை இவர்களின் முக்கிய பலவீனமாக அமையலாம். முடிவெடுப்பதில் அதிகத் தயக்கம் காட்டுவார்கள். எதார்த்த உலகை விட கற்பனை உலகில் வாழ்வதால், பல நேரங்களில் ஏமாற்றத்தைச் சந்திப்பார்கள். மற்றவர்களின் பேச்சை எளிதில் நம்பிவிடுவார்கள். உணர்ச்சிவசப்படும் குணம் இவர்களிடம் அதிகம் இருக்கும். பிரச்சினைகளை எதிர்கொள்வதை விட, அதில் இருந்து தப்பிக்கவே முயற்சிப்பார்கள்.",
+        "career": "குருவின் ஆதிக்கம் இருப்பதால், இவர்கள் மருத்துவம், ஆன்மீகம், மற்றும் ஆலோசனைத் துறைகளில் சிறந்து விளங்குவார்கள். சிறந்த எழுத்தாளர்களாகவும், கவிஞர்களாகவும், ஓவியர்களாகவும் திகழ்வார்கள். கடல் சார்ந்த தொழில்கள், மீன் வளம் மற்றும் நீர்ப்பாசனத் துறையிலும் இவர்கள் கொடிகட்டிப் பறப்பார்கள். ஆசிரியப் பணி மற்றும் சமூக சேவையிலும் இவர்களுக்கு நல்ல பெயரும் புகழும் கிடைக்கும். கலைத் துறையில் இவர்கள் பெரும் வெற்றியடைவார்கள்.",
+        "marriage": "திருமண வாழ்க்கையில் மீன ராசியினர் மிகவும் அர்ப்பணிப்பு உணர்வு கொண்டவர்கள். தன் துணையைத் தெய்வமாகப் போற்றுவார்கள். இவர்களுக்கு கடகம் (Cancer) மற்றும் விருச்சிகம் (Scorpio) ராசியினருடன் மிகச் சிறந்த பொருத்தம் அமையும். இந்த ராசியினரும் நீர் தத்துவத்தைக் கொண்டிருப்பதால், ஒருவருக்கொருவர் நன்கு புரிந்து கொண்டு ஆழமான அன்பு செலுத்துவார்கள். ரிஷபம் மற்றும் மகர ராசியினருடனும் இவர்களுக்கு நல்ல இணக்கம் இருக்கும்.",
+        "luckyColor": "மஞ்சள், கிரீம் மற்றும் வெளிர் பச்சை",
+        "luckyNumber": "3, 7, 9",
+        "luckyStone": "கனகபுஷ்பராகம் (Yellow Sapphire)"
+      }
+    }
+  ]
+}

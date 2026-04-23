@@ -1,0 +1,192 @@
+.rasi-palan-page-container {
+  --brand: #330033;
+  --brand-soft: #4a004a;
+  --accent: #a15bbb;
+  --text: #2d2d2d;
+  --muted: #666;
+  --bg: #fdfafd;
+  --surface: #ffffff;
+  --border: #eee;
+  --radius: 16px;
+  --shadow: 0 10px 30px rgba(51, 0, 51, 0.08);
+
+  font-family: var(--font-hind-madurai), var(--font-poppins), sans-serif !important;
+  background:
+    radial-gradient(circle at top left, rgba(161, 91, 187, 0.12), transparent 0 22%), var(--bg) !important;
+  color: var(--text);
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+.rasi-palan-page-container .container {
+  width: min(1120px, calc(100% - 1.2rem));
+  margin: 0 auto;
+  padding: 2rem 0;
+}
+
+.section-heading {
+  text-align: center;
+  margin-bottom: 2.5rem;
+}
+
+.section-heading h1 {
+  color: var(--brand);
+  margin-bottom: 0.5rem;
+}
+
+.section-heading p {
+  color: var(--muted);
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+/* Carousel Styles */
+.rasi-carousel-container {
+  margin-bottom: 4rem;
+}
+
+.rasi-swiper {
+  width: 100%;
+  padding: 20px 0 50px !important;
+}
+
+.swiper {
+  width: 100%;
+  padding: 20px 0 50px;
+}
+
+.swiper-slide {
+  background: var(--surface);
+  border-radius: var(--radius);
+  padding: 2rem;
+  text-align: center;
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow);
+  transition: transform 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  height: auto !important;
+}
+
+.rasi-swiper .swiper-slide:hover {
+  transform: translateY(-5px);
+}
+
+.rasi-image {
+  width: 90px;
+  height: 90px;
+  margin: 0 auto 1.5rem;
+  background: linear-gradient(135deg, rgba(51, 0, 51, 0.05), rgba(161, 91, 187, 0.1));
+  border-radius: 50%;
+  padding: 15px;
+  object-fit: contain;
+  display: block;
+}
+
+.rasi-name {
+  font-size: 1.5rem;
+  color: var(--brand);
+  margin: 0 0 1rem;
+  font-weight: 700;
+}
+
+.rasi-palan-content {
+  font-size: 1rem;
+  color: #463b4c;
+  line-height: 1.7;
+  margin-bottom: 1.5rem;
+}
+
+.view-more-link {
+  margin-top: auto !important;
+  color: var(--accent);
+  font-weight: 700;
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  display: inline-block;
+  text-decoration: none;
+  position: absolute;
+  left: 100px;
+  bottom: 20px;
+}
+
+.rasi-swiper .swiper-button-next,
+.rasi-swiper .swiper-button-prev {
+  color: var(--brand) !important;
+  background: #fff !important;
+  width: 45px !important;
+  height: 45px !important;
+  border-radius: 50% !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1) !important;
+}
+
+.swiper-button-next:after,
+.swiper-button-prev:after {
+  font-size: 0.5rem !important;
+  font-weight: bold !important;
+}
+
+.swiper-navigation-icon {
+  height: 20px !important;
+}
+
+.rasi-swiper .swiper-pagination-bullet-active {
+  background: var(--brand) !important;
+}
+
+/* SEO Content Styles */
+.seo-content {
+  background: var(--surface);
+  border-radius: var(--radius);
+  padding: 3rem 2rem;
+  border: 1px solid var(--border);
+  margin-top: 2rem;
+}
+
+.seo-content h2 {
+  color: var(--brand);
+  margin: 0;
+}
+
+.seo-content p {
+  margin-bottom: 1.5rem;
+  font-size: 1rem;
+  color: var(--muted);
+}
+
+.seo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin-top: 2.5rem;
+}
+
+.seo-item h3 {
+  color: var(--brand-soft);
+  font-size: 1rem;
+  margin-bottom: 0.8rem;
+}
+
+@media (max-width: 640px) {
+  .rasi-swiper .swiper-slide {
+    padding: 1.5rem 2.5 rem;
+  }
+
+  .rasi-name {
+    font-size: 1.1rem;
+  }
+
+  .rasi-palan-content {
+    font-size: 0.9rem;
+  }
+
+  .section-heading h1 {
+    font-size: 1.5rem;
+  }
+
+  .rasi-image {
+    width: 70px;
+    height: 70px;
+  }
+}
