@@ -64,7 +64,7 @@ export default function DailyRasiPalan() {
     }
 
     // Fetch predictions from the public folder
-    fetch('/predictions.json')
+    fetch('https://raw.githubusercontent.com/Nila-Studios/nilastudios.github.io/refs/heads/main/predictions.json')
       .then((res) => res.json())
       .then((data) => setPredictions(data))
       .catch((err) => console.error('Error loading predictions:', err));
